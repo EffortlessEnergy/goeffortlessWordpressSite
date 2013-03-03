@@ -1,0 +1,715 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Oakland 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-11 10:20+0200\n"
+"PO-Revision-Date: 2012-04-12 07:41+0200\n"
+"Last-Translator: CMSMasters <cmsmstrs@gmail.com>\n"
+"Language-Team: CMSMasters <cmsmstrs@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:26
+msgid "We're sorry, but the page you were looking for doesn't exist."
+msgstr "Üzgünüz, ama aradığınız sayfa mevcut değil."
+
+#: 404.php:33
+msgid "Sitemap"
+msgstr "Site Haritası"
+
+#: archive.php:32
+msgid "No posts found"
+msgstr "Hiç mesaj bulundu"
+
+#: blog.php:51
+#: page.php:54
+#: portfolio.php:72
+#: sitemap.php:58
+#: sitemap.php:69
+msgid "Pages"
+msgstr "Sayfalar"
+
+#: comments.php:14
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Lütfen bu sayfayı doğrudan yük yok. Teşekkürler!"
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Bu yazılan şifre korumalıdır. Yorum görmek için parolanızı girin."
+
+#: comments.php:26
+msgid "No Comments"
+msgstr "Yorum Yok"
+
+#: comments.php:26
+msgid "Comment"
+msgstr "Yorum"
+
+#: comments.php:26
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: comments.php:29
+#: comments.php:39
+msgid "Older Comments"
+msgstr "Eski Yorumlar"
+
+#: comments.php:30
+#: comments.php:40
+msgid "Newer Comments"
+msgstr "Yeni Yorumlar"
+
+#: comments.php:51
+msgid "Cancel Reply"
+msgstr "Cevabı iptal etmek için"
+
+#: comments.php:52
+msgid "Leave a Reply"
+msgstr "Bir Cevap Yazın"
+
+#: comments.php:52
+msgid "Leave your comment to"
+msgstr "Yorum bırak."
+
+#: comments.php:54
+msgid "Your email address will not be published. Required fields are marked"
+msgstr "E-posta adresinizi yayınlanan olmayacaktır. Gerekli alanlar işaretlenmiştir."
+
+#: comments.php:57
+msgid "You must be"
+msgstr "Olmalıdır"
+
+#: comments.php:57
+msgid "logged in"
+msgstr "Bağlı"
+
+#: comments.php:57
+msgid "to post a comment"
+msgstr "Yorum yazmak için"
+
+#: comments.php:62
+msgid "Logged in as"
+msgstr "Olarak oturum"
+
+#: comments.php:62
+msgid "Log out of this account"
+msgstr "Bu hesabın oturum açın"
+
+#: comments.php:62
+msgid "Log out"
+msgstr "Çıkış yap"
+
+#: comments.php:68
+#: header.php:441
+msgid "Name"
+msgstr "Isim"
+
+#: comments.php:73
+msgid "Email"
+msgstr "E-posta"
+
+#: comments.php:78
+msgid "Website"
+msgstr "Web sitesi"
+
+#: comments.php:93
+msgid "Add Comment"
+msgstr "Yorum Ekle"
+
+#: footer.php:100
+msgid "Find us elsewhere"
+msgstr "Yerde bize bul"
+
+#: header.php:252
+msgid "Navigate to..."
+msgstr "Gidin..."
+
+#: header.php:330
+msgid "Search Results for"
+msgstr "Için Arama Sonuçları"
+
+#: header.php:333
+msgid "Daily Archives"
+msgstr "Günlük Arşiv"
+
+#: header.php:335
+msgid "Monthly Archives"
+msgstr "Aylık Arşiv"
+
+#: header.php:337
+msgid "Yearly Archives"
+msgstr "Yıllık Arşivler"
+
+#: header.php:339
+msgid "Category Archives"
+msgstr "Kategori Arşivi"
+
+#: header.php:341
+msgid "Tag Archives"
+msgstr "Tag Arşivi"
+
+#: header.php:345
+msgid "Author Archives"
+msgstr "Yazar Arşivi"
+
+#: header.php:349
+msgid "Portfolio Archives"
+msgstr "Portföy Arşivler"
+
+#: header.php:351
+msgid "Website Archives"
+msgstr "Web sitesi Arşivler"
+
+#: header.php:442
+msgid "Date"
+msgstr "Tarih"
+
+#: header.php:446
+#: header.php:448
+msgid "All Categories"
+msgstr "Tüm Kategoriler"
+
+#: image.php:41
+msgid "This entry was posted on"
+msgstr "Bu yazı yayınlanmıştır."
+
+#: image.php:41
+msgid "at"
+msgstr "az"
+
+#: image.php:41
+msgid "and is filed under"
+msgstr "and is filed under"
+
+#: image.php:49
+msgid "You can follow any responses to this entry through the"
+msgstr "Ile bu giriş için herhangi bir yanıt takip edebilirsiniz"
+
+#: image.php:51
+msgid "RSS 2.0"
+msgstr "RSS 2. 0"
+
+#: image.php:53
+msgid "feed"
+msgstr "beslemek"
+
+#: image.php:56
+msgid "You can"
+msgstr "Şunları yapabilirsiniz"
+
+#: image.php:56
+msgid "leave a response"
+msgstr "Bir yanıt bırakın"
+
+#: image.php:56
+msgid "or"
+msgstr "veya"
+
+#: image.php:59
+#: image.php:65
+msgid "trackback"
+msgstr "trackback"
+
+#: image.php:59
+#: image.php:65
+msgid "from your own site"
+msgstr "kendi sitesinden"
+
+#: image.php:61
+msgid "Responses are currently closed, but you can"
+msgstr "Şu anda kapalı, ancak"
+
+#: image.php:67
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr "Sonuna kadar atlayabilir ve bir yanıt bırakabilirsiniz. Ping şu an izin verilmiyor."
+
+#: image.php:69
+msgid "Both comments and pings are currently closed."
+msgstr "Her iki yorum ve ping şu anda kapalı."
+
+#: image.php:72
+msgid "Edit this media"
+msgstr "Bu ortam Düzenle"
+
+#: search.php:33
+msgid "Nothing found. Try another search?"
+msgstr "Hiç bir şey bulunamadı. Başka bir arama denemek ister misiniz?"
+
+#: search.php:69
+msgid "This page contains your query"
+msgstr "Bu sayfa Sorgunuzla"
+
+#: searchform.php:16
+msgid "enter keywords"
+msgstr "anahtar kelime girin"
+
+#: single.php:91
+msgid "Like this post?"
+msgstr "Bunun gibi?"
+
+#: single.php:147
+msgid "More Sharing Options"
+msgstr "Daha fazla Paylaşım Seçenekleri"
+
+#: single.php:188
+#: theme/classes/breadcrumb.php:100
+msgid "Author"
+msgstr "Yazar"
+
+#: sitemap.php:85
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: sitemap.php:102
+msgid "Archives"
+msgstr "Arşiv"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "Jan"
+msgstr "Oca"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "Feb"
+msgstr "Şub"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "Mar"
+msgstr "Mar"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "Apr"
+msgstr "Nis"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "May"
+msgstr "May"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "Jun"
+msgstr "Haz"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "Jul"
+msgstr "Tem"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "Aug"
+msgstr "Ağu"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "Sep"
+msgstr "Eyl"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "Oct"
+msgstr "Eki"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "Nov"
+msgstr "Kas"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "Dec"
+msgstr "Ara"
+
+#: js/jquery.jTweetsAnywhere.min.php:780
+msgid "More"
+msgstr "Daha fazla"
+
+#: js/jquery.jTweetsAnywhere.min.php:784
+msgid "Prev"
+msgstr "Önceki"
+
+#: js/jquery.jTweetsAnywhere.min.php:788
+msgid "Next"
+msgstr "Sonraki"
+
+#: js/jquery.jTweetsAnywhere.min.php:803
+msgid "new tweet"
+msgstr "yeni bir tweet"
+
+#: js/jquery.jTweetsAnywhere.min.php:803
+msgid "new tweets"
+msgstr "yeni tweetler"
+
+#: js/jquery.jTweetsAnywhere.min.php:1057
+msgid "on Twitter"
+msgstr "Twitter'da"
+
+#: js/jquery.jTweetsAnywhere.min.php:1083
+msgid "second ago"
+msgstr "saniye önce"
+
+#: js/jquery.jTweetsAnywhere.min.php:1083
+msgid "seconds ago"
+msgstr "saniye önce"
+
+#: js/jquery.jTweetsAnywhere.min.php:1088
+msgid "minute ago"
+msgstr "dakika önce"
+
+#: js/jquery.jTweetsAnywhere.min.php:1088
+msgid "minutes ago"
+msgstr "dakika önce"
+
+#: js/jquery.jTweetsAnywhere.min.php:1093
+msgid "hour ago"
+msgstr "saat önce"
+
+#: js/jquery.jTweetsAnywhere.min.php:1093
+msgid "hours ago"
+msgstr "saat önce"
+
+#: js/jquery.jTweetsAnywhere.min.php:1108
+msgid "day ago"
+msgstr "gün önce"
+
+#: js/jquery.jTweetsAnywhere.min.php:1108
+msgid "days ago"
+msgstr "gün önce"
+
+#: js/jquery.jTweetsAnywhere.min.php:1121
+msgid "via"
+msgstr "üzerinden"
+
+#: js/jquery.jTweetsAnywhere.min.php:1148
+msgid "here"
+msgstr "burada"
+
+#: js/jquery.jTweetsAnywhere.min.php:1158
+msgid "from"
+msgstr "itibaren"
+
+#: js/jquery.jTweetsAnywhere.min.php:1177
+msgid "in reply to"
+msgstr "cevap olarak"
+
+#: js/jquery.jTweetsAnywhere.min.php:1205
+msgid "and"
+msgstr "ve"
+
+#: js/jquery.jTweetsAnywhere.min.php:1205
+msgid "other"
+msgstr "diğer"
+
+#: js/jquery.jTweetsAnywhere.min.php:1205
+msgid "others"
+msgstr "diğerleri"
+
+#: js/jquery.jTweetsAnywhere.min.php:1210
+msgid "Retweeted by"
+msgstr "Tarafından retweeted"
+
+#: js/jquery.jTweetsAnywhere.min.php:1251
+msgid "Reply"
+msgstr "Cevap"
+
+#: js/jquery.jTweetsAnywhere.min.php:1263
+msgid "Retweet"
+msgstr "Retweet"
+
+#: js/jquery.jTweetsAnywhere.min.php:1275
+msgid "Favorite"
+msgstr "Favori"
+
+#: js/jquery.jTweetsAnywhere.min.php:1316
+msgid "Sign out"
+msgstr "Oturumu"
+
+#: js/jquery.jTweetsAnywhere.min.php:1354
+msgid "Loading"
+msgstr "Yükleme"
+
+#: js/jquery.jTweetsAnywhere.min.php:1359
+msgid "ERROR"
+msgstr "HATA"
+
+#: js/jquery.jTweetsAnywhere.min.php:1364
+msgid "No more data"
+msgstr "Hayır daha fazla veri"
+
+#: js/jquery.jTweetsAnywhere.min.php:1495
+msgid "What's happening?"
+msgstr "Neler oluyor?"
+
+#: js/jquery.validationEngine-lang.php:25
+msgid "* This field is required"
+msgstr "* Bu alan gerekli"
+
+#: js/jquery.validationEngine-lang.php:26
+msgid "* Please select an option"
+msgstr "* Lütfen bir seçeneği seçin"
+
+#: js/jquery.validationEngine-lang.php:27
+msgid "* This checkbox is required"
+msgstr "* Bu onay kutusunu gerekli"
+
+#: js/jquery.validationEngine-lang.php:31
+msgid "* Minimum"
+msgstr "* Minimum"
+
+#: js/jquery.validationEngine-lang.php:32
+#: js/jquery.validationEngine-lang.php:37
+msgid "characters allowed"
+msgstr "karakterlere izin"
+
+#: js/jquery.validationEngine-lang.php:36
+msgid "* Maximum"
+msgstr "* Maksimum"
+
+#: js/jquery.validationEngine-lang.php:41
+msgid "* Invalid email address"
+msgstr "* Geçersiz e-posta adresi"
+
+#: js/jquery.validationEngine-lang.php:45
+msgid "* Invalid number"
+msgstr "* Geçersiz numara"
+
+#: js/jquery.validationEngine-lang.php:49
+msgid "* Invalid URL"
+msgstr "* Geçersiz URL"
+
+#: js/jquery.validationEngine-lang.php:53
+msgid "* Numbers and spaces only"
+msgstr "* Numaraları ve boşluk"
+
+#: js/jquery.validationEngine-lang.php:57
+msgid "* Letters and spaces only"
+msgstr "* Mektuplar ve boşluk"
+
+#: theme/administrator/admin-options.php:711
+msgid "All Rights Reserved"
+msgstr "Tüm Hakları Saklıdır"
+
+#: theme/classes/breadcrumb.php:27
+msgid "Home"
+msgstr "Ev"
+
+#: theme/classes/breadcrumb.php:104
+msgid "Tag"
+msgstr "Etiket"
+
+#: theme/classes/breadcrumb.php:108
+msgid "Search"
+msgstr "Arama"
+
+#: theme/classes/widgets.php:51
+msgid "All Flickr Images"
+msgstr "Flickr Resimleri"
+
+#: theme/classes/widgets.php:293
+msgid "on"
+msgstr "üzerinde"
+
+#: theme/classes/widgets.php:295
+#: theme/functions/comments.php:34
+msgid "ago"
+msgstr "önce"
+
+#: theme/classes/widgets.php:920
+msgid "Phone"
+msgstr "Telefon"
+
+#: theme/classes/widgets.php:1269
+msgid "Submit"
+msgstr "Sunmak"
+
+#: theme/classes/widgets.php:1272
+msgid "Do you really want to reset the form?"
+msgstr "Eğer gerçekten formu sıfırlamak istiyor musunuz?"
+
+#: theme/classes/widgets.php:1662
+#: theme/classes/widgets.php:1746
+msgid "Your browser does not support the video tag."
+msgstr "Tarayıcınız video etiketi desteklemiyor."
+
+#: theme/classes/widgets.php:1852
+#: theme/classes/widgets.php:1928
+msgid "Your browser does not support the audio tag."
+msgstr "Tarayıcınız audio etiketi desteklemiyor."
+
+#: theme/classes/wp-pagenavi.php:242
+msgid "Page"
+msgstr "Sayfa"
+
+#: theme/classes/wp-pagenavi.php:242
+msgid "of"
+msgstr "arasında"
+
+#: theme/functions/comments.php:23
+msgid "said"
+msgstr "dedi"
+
+#: theme/functions/comments.php:31
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz moderasyon bekliyor."
+
+#: theme/functions/form-builder-sendmail.php:82
+#: theme/functions/form-builder-sendmail.php:90
+msgid "Error!!!"
+msgstr "Hata!!!"
+
+#: theme/functions/form-builder-sendmail.php:84
+msgid "Letter was sent"
+msgstr "Mektubu gönderildi"
+
+#: theme/functions/form-builder-sendmail.php:86
+msgid "letters have been sent"
+msgstr "mektup gönderildi"
+
+#: theme/functions/shortcodes.php:357
+msgid "Top"
+msgstr "Üst"
+
+#: theme/functions/shortcodes.php:526
+#: theme/functions/shortcodes.php:539
+#: theme/functions/shortcodes.php:598
+#: theme/functions/shortcodes.php:611
+#: theme/functions/shortcodes.php:868
+#: theme/functions/shortcodes.php:928
+msgid "Play"
+msgstr "Oyun"
+
+#: theme/functions/shortcodes.php:540
+#: theme/functions/shortcodes.php:612
+#: theme/functions/shortcodes.php:869
+#: theme/functions/shortcodes.php:929
+msgid "Pause"
+msgstr "Duraklat"
+
+#: theme/functions/shortcodes.php:541
+#: theme/functions/shortcodes.php:613
+#: theme/functions/shortcodes.php:870
+#: theme/functions/shortcodes.php:930
+msgid "Stop"
+msgstr "Dur"
+
+#: theme/functions/shortcodes.php:547
+#: theme/functions/shortcodes.php:621
+#: theme/functions/shortcodes.php:876
+#: theme/functions/shortcodes.php:938
+msgid "Mute"
+msgstr "Sessiz"
+
+#: theme/functions/shortcodes.php:548
+#: theme/functions/shortcodes.php:622
+#: theme/functions/shortcodes.php:877
+#: theme/functions/shortcodes.php:939
+msgid "Unmute"
+msgstr "Sesi aç"
+
+#: theme/functions/shortcodes.php:549
+#: theme/functions/shortcodes.php:623
+msgid "Full Screen"
+msgstr "Tam Ekran"
+
+#: theme/functions/shortcodes.php:550
+#: theme/functions/shortcodes.php:624
+msgid "Restore Screen"
+msgstr "Ekran Geri Yükleme"
+
+#: theme/functions/shortcodes.php:560
+#: theme/functions/shortcodes.php:634
+#: theme/functions/shortcodes.php:887
+#: theme/functions/shortcodes.php:949
+msgid "Update Required"
+msgstr "Gerekli Güncelleme"
+
+#: theme/functions/shortcodes.php:561
+#: theme/functions/shortcodes.php:635
+#: theme/functions/shortcodes.php:888
+#: theme/functions/shortcodes.php:950
+msgid "To play the media you will need to either update your browser to a recent version or update your"
+msgstr "Medya oynatmak için son sürümü tarayıcınızı güncelleyin ya da güncellemek ya gerekecektir"
+
+#: theme/functions/shortcodes.php:561
+#: theme/functions/shortcodes.php:635
+#: theme/functions/shortcodes.php:888
+#: theme/functions/shortcodes.php:950
+msgid "Flash plugin"
+msgstr "Flash eklentisi"
+
+#: theme/functions/shortcodes.php:614
+#: theme/functions/shortcodes.php:931
+msgid "Previous"
+msgstr "Önceki"
+
+#: theme/functions/template-functions.php:298
+#: theme/functions/template-functions.php:345
+#: theme/functions/template-functions.php:394
+msgid "Comments Off"
+msgstr "Yorum Devre Dışı"
+
+#: theme/functions/template-functions.php:573
+msgid "More posts"
+msgstr "Daha fazla mesaj"
+
+#: theme/functions/template-functions.php:573
+msgid "More projects"
+msgstr "Diğer projeler"
+
+#: theme/functions/template-functions.php:577
+msgid "Related"
+msgstr "Ilgili"
+
+#: theme/functions/template-functions.php:587
+msgid "Popular"
+msgstr "Popüler"
+
+#: theme/functions/template-functions.php:597
+msgid "Latest"
+msgstr "Son"
+
+#: theme/functions/template-functions.php:663
+msgid "No Related Posts Found"
+msgstr "İlgili İleti Bulundu"
+
+#: theme/functions/template-functions.php:663
+msgid "No Related Projects Found"
+msgstr "Hayır İlgili Projeler Bulundu"
+
+#: theme/functions/template-functions.php:722
+msgid "No Popular Posts Found"
+msgstr "Popüler Yayınlar Bulundu"
+
+#: theme/functions/template-functions.php:722
+msgid "No Popular Projects Found"
+msgstr "Hayır Popüler Projeler Bulundu"
+
+#: theme/functions/template-functions.php:778
+msgid "No Latest Posts Found"
+msgstr "Yok Son Mesaj Bulundu"
+
+#: theme/functions/template-functions.php:778
+msgid "No Latest Projects Found"
+msgstr "Hayır Son Projelerimiz Bulundu"
+
+#: theme/functions/template-functions.php:824
+msgid "Unknown type of the video. Check your video link."
+msgstr "Video Bilinmeyen yazın. Video bağlantısını kontrol edin."
+
+#: theme/functions/template-functions.php:1103
+msgid "Send Message"
+msgstr "Mesaj Gönder"
+
+#: theme/functions/template-functions.php:1106
+msgid "Reset Form"
+msgstr "Açık formu"
+
+#: theme/postTypes/blog/page/fullwidth/link.php:17
+#: theme/postTypes/blog/page/sidebar/link.php:17
+msgid "Enter link text"
+msgstr "Bağlantı metni girin"
+
+#: theme/postTypes/blog/page/fullwidth/quote.php:21
+#: theme/postTypes/blog/page/sidebar/quote.php:21
+msgid "Enter post excerpt"
+msgstr "Mesaj alıntı girin"
+

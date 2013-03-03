@@ -1,0 +1,4456 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Oakland 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-11 10:20+0200\n"
+"PO-Revision-Date: 2012-04-11 10:30+0200\n"
+"Last-Translator: CMSMasters <cmsmstrs@gmail.com>\n"
+"Language-Team: CMSMasters <cmsmstrs@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: theme/administrator/admin-interface.php:161
+#: theme/administrator/admin-options.php:742
+#: theme/administrator/admin-options.php:748
+msgid "here"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:300
+#: theme/administrator/admin-interface.php:324
+#: theme/administrator/admin-interface.php:851
+#: theme/administrator/admin-interface.php:940
+#: theme/administrator/admin-interface.php:1094
+#: theme/administrator/admin-interface.php:1399
+#: theme/administrator/admin-interface.php:1414
+#: theme/administrator/admin-interface.php:1621
+#: theme/administrator/admin-interface.php:1751
+#: theme/administrator/admin-interface.php:2047
+#: theme/administrator/admin-interface.php:2180
+#: theme/administrator/admin-interface.php:2508
+#: theme/administrator/admin-interface.php:2626
+#: theme/administrator/admin-interface.php:2647
+#: theme/administrator/form-builder.php:114
+#: theme/administrator/form-builder.php:118
+#: theme/administrator/slider-manager.php:103
+#: theme/administrator/slider-manager.php:107
+msgid "Loading"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:84
+msgid "Error on page! Please reload page and try again."
+msgstr ""
+
+#: theme/administrator/admin-interface.php:145
+msgid "Theme Settings"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:148
+#: theme/administrator/admin-interface.php:169
+msgid "settings saved"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:151
+msgid "settings reset"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:154
+msgid "Error on page!"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:154
+msgid "settings not saved"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:157
+msgid "theme demo content now added to your website database"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:161
+msgid "is now activated"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:161
+msgid "To get the most out of everything"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:161
+msgid "has to offer please refer to the documentation that was include in the download"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:161
+msgid "Should you require further assistance you can contact us thru our ThemeForest profile page"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:177
+#: theme/administrator/admin-interface.php:178
+#: theme/administrator/admin-interface.php:179
+msgid "Dashboard"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:183
+#: theme/administrator/admin-interface.php:184
+#: theme/administrator/admin-interface.php:185
+msgid "Styling Options"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:189
+msgid "Background & Header"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:192
+msgid "Logo & Favicon"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:195
+#: theme/administrator/admin-options.php:272
+msgid "Font Name Options"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:198
+#: theme/administrator/admin-options.php:365
+msgid "Font Size Options"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:201
+#: theme/administrator/admin-options.php:478
+msgid "Line Height Options"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:204
+#: theme/administrator/admin-options.php:591
+msgid "Font Color Options"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:207
+#: theme/administrator/admin-options.php:685
+msgid "Footer Options"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:212
+#: theme/administrator/admin-interface.php:213
+#: theme/administrator/admin-interface.php:214
+msgid "General Options"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:218
+msgid "Theme Options"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:221
+#: theme/administrator/admin-options.php:819
+msgid "Sidebars"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:224
+msgid "Social Icons Manager"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:227
+#: theme/administrator/admin-options.php:853
+msgid "Theme Icons Manager"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:230
+#: theme/administrator/admin-options.php:867
+msgid "Theme Fonts Manager"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:233
+#: theme/administrator/admin-options.php:881
+msgid "Sharing Options"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:236
+#: theme/administrator/admin-options.php:896
+msgid "SEO Tools"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:241
+#: theme/administrator/admin-interface.php:242
+#: theme/administrator/admin-interface.php:243
+msgid "Blog Options"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:247
+#: theme/administrator/admin-options.php:157
+msgid "Blog Page"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:250
+msgid "Blog Posts"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:255
+#: theme/administrator/admin-interface.php:256
+#: theme/administrator/admin-interface.php:257
+msgid "Portfolio Page"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:261
+msgid "Full Width Portfolio"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:264
+msgid "Portfolio With Sidebar"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:267
+msgid "Portfolio Projects"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:275
+msgid "ThemeForest Profile"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:276
+msgid "Support Forum"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:278
+msgid "Twitter"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:298
+#: theme/administrator/admin-interface.php:324
+#: theme/administrator/admin-interface.php:1397
+#: theme/administrator/admin-interface.php:1619
+#: theme/administrator/admin-interface.php:2644
+msgid "Save Changes"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:693
+#: theme/administrator/admin-interface.php:1950
+#: theme/administrator/admin-interface.php:2170
+#: theme/administrator/post-options.php:1521
+msgid "Patterns"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:721
+#: theme/administrator/admin-interface.php:1978
+#: theme/administrator/admin-interface.php:2171
+#: theme/administrator/post-options.php:1549
+msgid "Transparent Images"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:771
+#: theme/administrator/admin-interface.php:2006
+#: theme/administrator/admin-interface.php:2172
+#: theme/administrator/post-options.php:1577
+msgid "Background Images"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:849
+#: theme/administrator/admin-interface.php:938
+#: theme/administrator/admin-interface.php:1412
+#: theme/administrator/admin-interface.php:2044
+#: theme/administrator/admin-interface.php:2506
+msgid "Upload"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:864
+#: theme/administrator/admin-interface.php:952
+#: theme/administrator/admin-interface.php:2056
+msgid "Reset"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:878
+#: theme/administrator/admin-interface.php:965
+#: theme/administrator/admin-interface.php:1428
+#: theme/administrator/admin-interface.php:2069
+#: theme/administrator/admin-interface.php:2522
+msgid "Only JPG, PNG, ICO or GIF files are allowed"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:901
+#: theme/administrator/admin-interface.php:985
+#: theme/administrator/admin-interface.php:1450
+#: theme/administrator/admin-interface.php:2086
+#: theme/administrator/admin-interface.php:2539
+#: theme/administrator/admin-interface.php:2541
+#: theme/administrator/admin-interface.php:2559
+msgid "File"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:901
+#: theme/administrator/admin-interface.php:985
+#: theme/administrator/admin-interface.php:1450
+#: theme/administrator/admin-interface.php:2086
+#: theme/administrator/admin-interface.php:2541
+msgid "do not load..."
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1107
+msgid "Error! Demo content not import."
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1120
+msgid "Warning: By importing Demo Content you make changes in your Database!"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1186
+#: theme/administrator/admin-interface.php:1773
+msgid "Content Fonts"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1204
+#: theme/administrator/admin-interface.php:1691
+#: theme/administrator/admin-interface.php:1709
+#: theme/administrator/admin-interface.php:1777
+msgid "Google Fonts"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1376
+#: theme/administrator/admin-interface.php:1522
+#: theme/administrator/admin-interface.php:2480
+#: theme/administrator/admin-interface.php:2536
+#: theme/administrator/admin-interface.php:2624
+#: theme/administrator/form-builder.php:113
+#: theme/administrator/slider-manager.php:102
+msgid "Delete"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1402
+msgid "Add New Social Icon"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1406
+msgid "Upload Icon"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1461
+msgid "Do you realy want to delete this icon from social icons list?"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1474
+msgid "Icon was not removed"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1538
+msgid "This icon already exists"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1540
+msgid "Icon was not added"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1545
+msgid "Upload icon file and enter tooltip!"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1567
+msgid "There is no such icon!"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1573
+msgid "Link was not updated"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1591
+msgid "Enter Tooltip Text"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1600
+msgid "Enter Icon Link"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1610
+msgid "Add Icon"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1624
+msgid "Social Icons Links"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1665
+#: theme/administrator/admin-interface.php:2038
+#: theme/administrator/form-builder.php:97
+#: theme/administrator/post-options.php:792
+#: theme/administrator/post-options.php:1023
+#: theme/administrator/post-options.php:1230
+#: theme/administrator/slider-manager.php:83
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:464
+msgid "Cancel"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1671
+msgid "Select Font For Editing"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1716
+msgid "Enter Google Font Name"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1726
+msgid "Enter Google Font API Parameter Name"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1736
+msgid "Choose Font Type (Advanced)"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1742
+msgid "Heading"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1743
+msgid "Content"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1753
+msgid "Add Font"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1754
+msgid "Update Font"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1755
+msgid "Delete Font"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1821
+msgid "Font successfully added."
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1823
+msgid "This font already exists!"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1825
+msgid "Font was not added!!!"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1832
+msgid "Enter font name and description!"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1843
+msgid "Do you realy want to delete this font from your fonts list?"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1859
+msgid "Font successfully deleted."
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1861
+#: theme/administrator/admin-interface.php:1908
+msgid "It is no font with this name! Refresh this page and try again."
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1863
+msgid "Font was not deleted!!!"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1906
+msgid "Font successfully updated."
+msgstr ""
+
+#: theme/administrator/admin-interface.php:1910
+msgid "Font was not updated!!!"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2037
+msgid "Upload Your Background Image"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2108
+msgid "Select Background Image Vertical Position"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2114
+msgid "Top"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2115
+#: theme/administrator/admin-interface.php:2129
+msgid "Center"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2116
+msgid "Bottom"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2122
+msgid "Select Background Image Horizontal Position"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2128
+msgid "Left"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2130
+msgid "Right"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2136
+msgid "Select Background Image Repeat"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2142
+msgid "No Repeat"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2143
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2144
+msgid "Repeat Vertically"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2145
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:353
+msgid "Repeat"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2151
+msgid "Select Background Image Attachment"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2157
+msgid "Scroll"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2158
+msgid "Fixed"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2164
+msgid "Select Background Image Type"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2182
+msgid "Add Background"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2183
+msgid "Update Background"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2184
+msgid "Delete Background"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2307
+msgid "Background image successfully added."
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2309
+msgid "This background image already exists!"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2311
+msgid "Background image was not added!!!"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2318
+msgid "Choose background image file and parameters!"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2329
+msgid "Do you realy want to delete this background image from your backgrounds list?"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2352
+msgid "Background image successfully deleted."
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2354
+#: theme/administrator/admin-interface.php:2425
+msgid "It is no background image with this name! Refresh this page and try again."
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2356
+msgid "Background image was not deleted!!!"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2423
+msgid "Background image successfully updated."
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2427
+msgid "Background image was not updated!!!"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2490
+msgid "Icon Link"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2500
+msgid "Add New Icon"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2539
+msgid "already exists!"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2551
+msgid "Do you realy want to delete this file from the server?"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2559
+msgid "do not delete..."
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2598
+msgid "Add"
+msgstr ""
+
+#: theme/administrator/admin-interface.php:2713
+#: theme/administrator/admin-interface.php:2725
+msgid "Options"
+msgstr ""
+
+#: theme/administrator/admin-options.php:124
+#: theme/administrator/post-options.php:220
+#: theme/administrator/post-options.php:399
+msgid "Right Sidebar"
+msgstr ""
+
+#: theme/administrator/admin-options.php:125
+#: theme/administrator/post-options.php:221
+#: theme/administrator/post-options.php:400
+msgid "Left Sidebar"
+msgstr ""
+
+#: theme/administrator/admin-options.php:126
+#: theme/administrator/post-options.php:222
+#: theme/administrator/post-options.php:401
+msgid "Full Width"
+msgstr ""
+
+#: theme/administrator/admin-options.php:135
+msgid "Show Navigation"
+msgstr ""
+
+#: theme/administrator/admin-options.php:136
+msgid "Show Social Icons"
+msgstr ""
+
+#: theme/administrator/admin-options.php:137
+msgid "Show Custom HTML"
+msgstr ""
+
+#: theme/administrator/admin-options.php:141
+msgid "Hello"
+msgstr ""
+
+#: theme/administrator/admin-options.php:141
+msgid "What will we do today?"
+msgstr ""
+
+#: theme/administrator/admin-options.php:145
+msgid "Create/Edit Main Menu"
+msgstr ""
+
+#: theme/administrator/admin-options.php:146
+msgid "Sidebars & Widgets"
+msgstr ""
+
+#: theme/administrator/admin-options.php:147
+msgid "Set Front Page"
+msgstr ""
+
+#: theme/administrator/admin-options.php:155
+msgid "Quick page create"
+msgstr ""
+
+#: theme/administrator/admin-options.php:158
+msgid "Click this button if you want to create blog page."
+msgstr ""
+
+#: theme/administrator/admin-options.php:163
+msgid "Portfolio"
+msgstr ""
+
+#: theme/administrator/admin-options.php:164
+msgid "Click this button if you want to create portfolio page."
+msgstr ""
+
+#: theme/administrator/admin-options.php:170
+msgid "Click this button if you want to create sitemap page."
+msgstr ""
+
+#: theme/administrator/admin-options.php:178
+msgid "Import Demo Content"
+msgstr ""
+
+#: theme/administrator/admin-options.php:186
+msgid "Background Colors & Header"
+msgstr ""
+
+#: theme/administrator/admin-options.php:190
+msgid "Background Colored Block"
+msgstr ""
+
+#: theme/administrator/admin-options.php:191
+msgid "Check this box if you want to show background colored block."
+msgstr ""
+
+#: theme/administrator/admin-options.php:194
+#: theme/administrator/admin-options.php:247
+#: theme/administrator/admin-options.php:259
+#: theme/administrator/admin-options.php:693
+#: theme/administrator/admin-options.php:727
+#: theme/administrator/admin-options.php:734
+#: theme/administrator/admin-options.php:773
+#: theme/administrator/admin-options.php:780
+#: theme/administrator/admin-options.php:797
+#: theme/administrator/admin-options.php:804
+#: theme/administrator/admin-options.php:811
+#: theme/administrator/admin-options.php:934
+#: theme/administrator/admin-options.php:941
+#: theme/administrator/admin-options.php:948
+#: theme/administrator/admin-options.php:955
+#: theme/administrator/admin-options.php:962
+#: theme/administrator/admin-options.php:969
+#: theme/administrator/admin-options.php:992
+#: theme/administrator/admin-options.php:999
+#: theme/administrator/admin-options.php:1006
+#: theme/administrator/admin-options.php:1013
+#: theme/administrator/admin-options.php:1020
+#: theme/administrator/admin-options.php:1027
+#: theme/administrator/admin-options.php:1034
+#: theme/administrator/admin-options.php:1041
+#: theme/administrator/admin-options.php:1048
+#: theme/administrator/admin-options.php:1055
+#: theme/administrator/admin-options.php:1062
+#: theme/administrator/admin-options.php:1091
+#: theme/administrator/admin-options.php:1098
+#: theme/administrator/admin-options.php:1105
+#: theme/administrator/admin-options.php:1112
+#: theme/administrator/admin-options.php:1123
+#: theme/administrator/admin-options.php:1130
+#: theme/administrator/admin-options.php:1137
+#: theme/administrator/admin-options.php:1144
+#: theme/administrator/admin-options.php:1155
+#: theme/administrator/admin-options.php:1162
+#: theme/administrator/admin-options.php:1169
+#: theme/administrator/admin-options.php:1176
+#: theme/administrator/admin-options.php:1187
+#: theme/administrator/admin-options.php:1194
+#: theme/administrator/admin-options.php:1201
+#: theme/administrator/admin-options.php:1208
+#: theme/administrator/admin-options.php:1228
+#: theme/administrator/admin-options.php:1235
+#: theme/administrator/admin-options.php:1242
+#: theme/administrator/admin-options.php:1249
+#: theme/administrator/admin-options.php:1260
+#: theme/administrator/admin-options.php:1267
+#: theme/administrator/admin-options.php:1274
+#: theme/administrator/admin-options.php:1281
+#: theme/administrator/admin-options.php:1292
+#: theme/administrator/admin-options.php:1299
+#: theme/administrator/admin-options.php:1306
+#: theme/administrator/admin-options.php:1313
+#: theme/administrator/admin-options.php:1335
+#: theme/administrator/admin-options.php:1342
+#: theme/administrator/admin-options.php:1349
+#: theme/administrator/admin-options.php:1356
+#: theme/administrator/admin-options.php:1363
+#: theme/administrator/admin-options.php:1370
+#: theme/administrator/admin-options.php:1377
+#: theme/administrator/admin-options.php:1384
+#: theme/administrator/admin-options.php:1391
+#: theme/administrator/admin-options.php:1398
+#: theme/administrator/admin-options.php:1405
+msgid "Show"
+msgstr ""
+
+#: theme/administrator/admin-options.php:195
+#: theme/administrator/admin-options.php:248
+#: theme/administrator/admin-options.php:260
+#: theme/administrator/admin-options.php:694
+#: theme/administrator/admin-options.php:728
+#: theme/administrator/admin-options.php:735
+#: theme/administrator/admin-options.php:774
+#: theme/administrator/admin-options.php:781
+#: theme/administrator/admin-options.php:798
+#: theme/administrator/admin-options.php:805
+#: theme/administrator/admin-options.php:812
+#: theme/administrator/admin-options.php:935
+#: theme/administrator/admin-options.php:942
+#: theme/administrator/admin-options.php:949
+#: theme/administrator/admin-options.php:956
+#: theme/administrator/admin-options.php:963
+#: theme/administrator/admin-options.php:970
+#: theme/administrator/admin-options.php:993
+#: theme/administrator/admin-options.php:1000
+#: theme/administrator/admin-options.php:1007
+#: theme/administrator/admin-options.php:1014
+#: theme/administrator/admin-options.php:1021
+#: theme/administrator/admin-options.php:1028
+#: theme/administrator/admin-options.php:1035
+#: theme/administrator/admin-options.php:1042
+#: theme/administrator/admin-options.php:1049
+#: theme/administrator/admin-options.php:1056
+#: theme/administrator/admin-options.php:1063
+#: theme/administrator/admin-options.php:1092
+#: theme/administrator/admin-options.php:1099
+#: theme/administrator/admin-options.php:1106
+#: theme/administrator/admin-options.php:1113
+#: theme/administrator/admin-options.php:1124
+#: theme/administrator/admin-options.php:1131
+#: theme/administrator/admin-options.php:1138
+#: theme/administrator/admin-options.php:1145
+#: theme/administrator/admin-options.php:1156
+#: theme/administrator/admin-options.php:1163
+#: theme/administrator/admin-options.php:1170
+#: theme/administrator/admin-options.php:1177
+#: theme/administrator/admin-options.php:1188
+#: theme/administrator/admin-options.php:1195
+#: theme/administrator/admin-options.php:1202
+#: theme/administrator/admin-options.php:1209
+#: theme/administrator/admin-options.php:1229
+#: theme/administrator/admin-options.php:1236
+#: theme/administrator/admin-options.php:1243
+#: theme/administrator/admin-options.php:1250
+#: theme/administrator/admin-options.php:1261
+#: theme/administrator/admin-options.php:1268
+#: theme/administrator/admin-options.php:1275
+#: theme/administrator/admin-options.php:1282
+#: theme/administrator/admin-options.php:1293
+#: theme/administrator/admin-options.php:1300
+#: theme/administrator/admin-options.php:1307
+#: theme/administrator/admin-options.php:1314
+#: theme/administrator/admin-options.php:1336
+#: theme/administrator/admin-options.php:1343
+#: theme/administrator/admin-options.php:1350
+#: theme/administrator/admin-options.php:1357
+#: theme/administrator/admin-options.php:1364
+#: theme/administrator/admin-options.php:1371
+#: theme/administrator/admin-options.php:1378
+#: theme/administrator/admin-options.php:1385
+#: theme/administrator/admin-options.php:1392
+#: theme/administrator/admin-options.php:1399
+#: theme/administrator/admin-options.php:1406
+msgid "Hide"
+msgstr ""
+
+#: theme/administrator/admin-options.php:197
+msgid "Colored Block & Navigation Background Color"
+msgstr ""
+
+#: theme/administrator/admin-options.php:198
+msgid "Background color of the colored block and header navigation of your website."
+msgstr ""
+
+#: theme/administrator/admin-options.php:202
+msgid "Navigation Dropdown Background Color"
+msgstr ""
+
+#: theme/administrator/admin-options.php:203
+msgid "Background color of the dropdown in your website navigation."
+msgstr ""
+
+#: theme/administrator/admin-options.php:207
+msgid "Header Height"
+msgstr ""
+
+#: theme/administrator/admin-options.php:208
+msgid "Please select you website header height here (in pixels)."
+msgstr ""
+
+#: theme/administrator/admin-options.php:220
+msgid "Logo & Favicon Options"
+msgstr ""
+
+#: theme/administrator/admin-options.php:224
+msgid "Display Logo or Title"
+msgstr ""
+
+#: theme/administrator/admin-options.php:225
+msgid "Display Logo"
+msgstr ""
+
+#: theme/administrator/admin-options.php:226
+msgid "Display Title"
+msgstr ""
+
+#: theme/administrator/admin-options.php:229
+msgid "You can choose what do you want to display as logo of the site - Title or Logo image."
+msgstr ""
+
+#: theme/administrator/admin-options.php:233
+msgid "Your Custom Logo"
+msgstr ""
+
+#: theme/administrator/admin-options.php:234
+msgid "Upload you custom logo image."
+msgstr ""
+
+#: theme/administrator/admin-options.php:238
+msgid "Your Custom Title"
+msgstr ""
+
+#: theme/administrator/admin-options.php:239
+msgid "You can type you custom site title text."
+msgstr ""
+
+#: theme/administrator/admin-options.php:243
+msgid "Site Description"
+msgstr ""
+
+#: theme/administrator/admin-options.php:244
+msgid "Check this box if you want to show site description text on your logo."
+msgstr ""
+
+#: theme/administrator/admin-options.php:250
+msgid "Your Custom Description"
+msgstr ""
+
+#: theme/administrator/admin-options.php:251
+msgid "You can type you custom site description text."
+msgstr ""
+
+#: theme/administrator/admin-options.php:255
+msgid "Site Favicon"
+msgstr ""
+
+#: theme/administrator/admin-options.php:256
+msgid "Check this box if you want to show site favicon."
+msgstr ""
+
+#: theme/administrator/admin-options.php:262
+msgid "Your Custom Favicon"
+msgstr ""
+
+#: theme/administrator/admin-options.php:263
+msgid "You can insert the full URL of your custom favicon image"
+msgstr ""
+
+#: theme/administrator/admin-options.php:276
+msgid "Content Font"
+msgstr ""
+
+#: theme/administrator/admin-options.php:277
+msgid "Please select your website content font here."
+msgstr ""
+
+#: theme/administrator/admin-options.php:282
+msgid "Navigation Title Font"
+msgstr ""
+
+#: theme/administrator/admin-options.php:283
+msgid "Please select your navigation title font here."
+msgstr ""
+
+#: theme/administrator/admin-options.php:288
+msgid "Navigation Dropdown Font"
+msgstr ""
+
+#: theme/administrator/admin-options.php:289
+msgid "Please select your navigation dropdown font here."
+msgstr ""
+
+#: theme/administrator/admin-options.php:294
+msgid "H1 Heading Font"
+msgstr ""
+
+#: theme/administrator/admin-options.php:295
+msgid "Please select your H1 tag font here."
+msgstr ""
+
+#: theme/administrator/admin-options.php:300
+msgid "H2 Heading Font"
+msgstr ""
+
+#: theme/administrator/admin-options.php:301
+msgid "Please select your H2 tag font here."
+msgstr ""
+
+#: theme/administrator/admin-options.php:306
+msgid "H3 Heading Font"
+msgstr ""
+
+#: theme/administrator/admin-options.php:307
+msgid "Please select your H3 tag font here."
+msgstr ""
+
+#: theme/administrator/admin-options.php:312
+msgid "H4 Heading Font"
+msgstr ""
+
+#: theme/administrator/admin-options.php:313
+msgid "Please select your H4 tag font here."
+msgstr ""
+
+#: theme/administrator/admin-options.php:318
+msgid "H5 Heading Font"
+msgstr ""
+
+#: theme/administrator/admin-options.php:319
+msgid "Please select your H5 tag font here."
+msgstr ""
+
+#: theme/administrator/admin-options.php:324
+msgid "H6 Heading Font"
+msgstr ""
+
+#: theme/administrator/admin-options.php:325
+msgid "Please select your H6 tag font here."
+msgstr ""
+
+#: theme/administrator/admin-options.php:330
+msgid "Dropcap Font"
+msgstr ""
+
+#: theme/administrator/admin-options.php:331
+msgid "Please select your dropcap font here."
+msgstr ""
+
+#: theme/administrator/admin-options.php:336
+msgid "Blockquote Font"
+msgstr ""
+
+#: theme/administrator/admin-options.php:337
+msgid "Please select your blockquote font here."
+msgstr ""
+
+#: theme/administrator/admin-options.php:342
+msgid "Code Font"
+msgstr ""
+
+#: theme/administrator/admin-options.php:343
+msgid "Please select your code tag font here."
+msgstr ""
+
+#: theme/administrator/admin-options.php:348
+msgid "Small Font"
+msgstr ""
+
+#: theme/administrator/admin-options.php:349
+msgid "Please select your small tag font here."
+msgstr ""
+
+#: theme/administrator/admin-options.php:354
+msgid "Input & Textarea Font"
+msgstr ""
+
+#: theme/administrator/admin-options.php:355
+msgid "Please select your input & textarea tags font here."
+msgstr ""
+
+#: theme/administrator/admin-options.php:369
+msgid "Content Font Size"
+msgstr ""
+
+#: theme/administrator/admin-options.php:370
+msgid "Please select you website content font size here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:370
+#: theme/administrator/admin-options.php:378
+#: theme/administrator/admin-options.php:386
+#: theme/administrator/admin-options.php:394
+#: theme/administrator/admin-options.php:402
+#: theme/administrator/admin-options.php:410
+#: theme/administrator/admin-options.php:418
+#: theme/administrator/admin-options.php:426
+#: theme/administrator/admin-options.php:434
+#: theme/administrator/admin-options.php:442
+#: theme/administrator/admin-options.php:450
+#: theme/administrator/admin-options.php:458
+#: theme/administrator/admin-options.php:466
+#: theme/administrator/admin-options.php:483
+#: theme/administrator/admin-options.php:491
+#: theme/administrator/admin-options.php:499
+#: theme/administrator/admin-options.php:507
+#: theme/administrator/admin-options.php:515
+#: theme/administrator/admin-options.php:523
+#: theme/administrator/admin-options.php:531
+#: theme/administrator/admin-options.php:539
+#: theme/administrator/admin-options.php:547
+#: theme/administrator/admin-options.php:555
+#: theme/administrator/admin-options.php:563
+#: theme/administrator/admin-options.php:571
+#: theme/administrator/admin-options.php:579
+msgid "in pixels"
+msgstr ""
+
+#: theme/administrator/admin-options.php:377
+msgid "Navigation Title Font Size"
+msgstr ""
+
+#: theme/administrator/admin-options.php:378
+msgid "Please select you website navigation title font size here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:385
+msgid "Navigation Dropdown Font Size"
+msgstr ""
+
+#: theme/administrator/admin-options.php:386
+msgid "Please select you website navigation dropdown font size here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:393
+msgid "H1 Heading Font Size"
+msgstr ""
+
+#: theme/administrator/admin-options.php:394
+msgid "Please select you H1 tag font size here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:401
+msgid "H2 Heading Font Size"
+msgstr ""
+
+#: theme/administrator/admin-options.php:402
+msgid "Please select you H2 tag font size here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:409
+msgid "H3 Heading Font Size"
+msgstr ""
+
+#: theme/administrator/admin-options.php:410
+msgid "Please select you H3 tag font size here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:417
+msgid "H4 Heading Font Size"
+msgstr ""
+
+#: theme/administrator/admin-options.php:418
+msgid "Please select you H4 tag font size here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:425
+msgid "H5 Heading Font Size"
+msgstr ""
+
+#: theme/administrator/admin-options.php:426
+msgid "Please select you H5 tag font size here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:433
+msgid "H6 Heading Font Size"
+msgstr ""
+
+#: theme/administrator/admin-options.php:434
+msgid "Please select you H6 tag font size here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:441
+msgid "Blockquote Font Size"
+msgstr ""
+
+#: theme/administrator/admin-options.php:442
+msgid "Please select you Blockquote tag font size here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:449
+msgid "Code Font Size"
+msgstr ""
+
+#: theme/administrator/admin-options.php:450
+msgid "Please select you Code tag font size here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:457
+msgid "Small Font Size"
+msgstr ""
+
+#: theme/administrator/admin-options.php:458
+msgid "Please select you Small tag font size here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:465
+msgid "Input & Textarea Font Size"
+msgstr ""
+
+#: theme/administrator/admin-options.php:466
+msgid "Please select you Input & Textarea tags font size here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:482
+msgid "Content Line Height"
+msgstr ""
+
+#: theme/administrator/admin-options.php:483
+msgid "Please select you website content line height here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:490
+msgid "Navigation Title Line Height"
+msgstr ""
+
+#: theme/administrator/admin-options.php:491
+msgid "Please select you website navigation title line height here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:498
+msgid "Navigation Dropdown Line Height"
+msgstr ""
+
+#: theme/administrator/admin-options.php:499
+msgid "Please select you website navigation dropdown line height here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:506
+msgid "H1 Heading Line Height"
+msgstr ""
+
+#: theme/administrator/admin-options.php:507
+msgid "Please select you H1 tag line height here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:514
+msgid "H2 Heading Line Height"
+msgstr ""
+
+#: theme/administrator/admin-options.php:515
+msgid "Please select you H2 tag line height here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:522
+msgid "H3 Heading Line Height"
+msgstr ""
+
+#: theme/administrator/admin-options.php:523
+msgid "Please select you H3 tag line height here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:530
+msgid "H4 Heading Line Height"
+msgstr ""
+
+#: theme/administrator/admin-options.php:531
+msgid "Please select you H4 tag line height here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:538
+msgid "H5 Heading Line Height"
+msgstr ""
+
+#: theme/administrator/admin-options.php:539
+msgid "Please select you H5 tag line height here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:546
+msgid "H6 Heading Line Height"
+msgstr ""
+
+#: theme/administrator/admin-options.php:547
+msgid "Please select you H6 tag line height here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:554
+msgid "Blockquote Line Height"
+msgstr ""
+
+#: theme/administrator/admin-options.php:555
+msgid "Please select you blockquote tag line height here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:562
+msgid "Code Line Height"
+msgstr ""
+
+#: theme/administrator/admin-options.php:563
+msgid "Please select you code tag line height here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:570
+msgid "Small Line Height"
+msgstr ""
+
+#: theme/administrator/admin-options.php:571
+msgid "Please select you small tag line height here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:578
+msgid "Input & Textarea Line Height"
+msgstr ""
+
+#: theme/administrator/admin-options.php:579
+msgid "Please select you input & textarea tags line height here"
+msgstr ""
+
+#: theme/administrator/admin-options.php:595
+msgid "Text Color"
+msgstr ""
+
+#: theme/administrator/admin-options.php:596
+msgid "Color of the text in the content part of your website."
+msgstr ""
+
+#: theme/administrator/admin-options.php:600
+msgid "Links Color"
+msgstr ""
+
+#: theme/administrator/admin-options.php:601
+msgid "Color of the links in the content part of your website."
+msgstr ""
+
+#: theme/administrator/admin-options.php:605
+msgid "Links Hover Color"
+msgstr ""
+
+#: theme/administrator/admin-options.php:606
+msgid "Color of the hovered links in the content part of your website."
+msgstr ""
+
+#: theme/administrator/admin-options.php:610
+msgid "Navigation Title Color"
+msgstr ""
+
+#: theme/administrator/admin-options.php:611
+msgid "Color of the title text in your website navigation."
+msgstr ""
+
+#: theme/administrator/admin-options.php:615
+msgid "Navigation Title Active Color"
+msgstr ""
+
+#: theme/administrator/admin-options.php:616
+msgid "Color of the active title text in your website navigation."
+msgstr ""
+
+#: theme/administrator/admin-options.php:620
+msgid "Navigation Dropdown Color"
+msgstr ""
+
+#: theme/administrator/admin-options.php:621
+msgid "Color of the dropdown text in your website navigation."
+msgstr ""
+
+#: theme/administrator/admin-options.php:625
+msgid "Navigation Dropdown Active Color"
+msgstr ""
+
+#: theme/administrator/admin-options.php:626
+msgid "Color of the dropdown active text in your website navigation."
+msgstr ""
+
+#: theme/administrator/admin-options.php:630
+msgid "H1 Heading Color"
+msgstr ""
+
+#: theme/administrator/admin-options.php:631
+msgid "Color of the H1 heading in the content part of your website."
+msgstr ""
+
+#: theme/administrator/admin-options.php:635
+msgid "H2 Heading Color"
+msgstr ""
+
+#: theme/administrator/admin-options.php:636
+msgid "Color of the H2 heading in the content part of your website."
+msgstr ""
+
+#: theme/administrator/admin-options.php:640
+msgid "H3 Heading Color"
+msgstr ""
+
+#: theme/administrator/admin-options.php:641
+msgid "Color of the H3 heading in the content part of your website."
+msgstr ""
+
+#: theme/administrator/admin-options.php:645
+msgid "H4 Heading Color"
+msgstr ""
+
+#: theme/administrator/admin-options.php:646
+msgid "Color of the H4 heading in the content part of your website."
+msgstr ""
+
+#: theme/administrator/admin-options.php:650
+msgid "H5 Heading Color"
+msgstr ""
+
+#: theme/administrator/admin-options.php:651
+msgid "Color of the H5 heading in the content part of your website."
+msgstr ""
+
+#: theme/administrator/admin-options.php:655
+msgid "H6 Heading Color"
+msgstr ""
+
+#: theme/administrator/admin-options.php:656
+msgid "Color of the H6 heading in the content part of your website."
+msgstr ""
+
+#: theme/administrator/admin-options.php:660
+msgid "Blockquote Tag Color"
+msgstr ""
+
+#: theme/administrator/admin-options.php:661
+msgid "Color of the blockquote tag in the content part of your website."
+msgstr ""
+
+#: theme/administrator/admin-options.php:665
+msgid "Code Tag Color"
+msgstr ""
+
+#: theme/administrator/admin-options.php:666
+msgid "Color of the code tag in the content part of your website."
+msgstr ""
+
+#: theme/administrator/admin-options.php:670
+msgid "Small Tag Color"
+msgstr ""
+
+#: theme/administrator/admin-options.php:671
+msgid "Color of the small tag in the content part of your website."
+msgstr ""
+
+#: theme/administrator/admin-options.php:675
+msgid "Input & Textarea Tags Color"
+msgstr ""
+
+#: theme/administrator/admin-options.php:676
+msgid "Color of the input & textarea tags in the content part of your website."
+msgstr ""
+
+#: theme/administrator/admin-options.php:689
+msgid "Footer Content"
+msgstr ""
+
+#: theme/administrator/admin-options.php:690
+msgid "Check this box if you want to enable site footer additional content."
+msgstr ""
+
+#: theme/administrator/admin-options.php:696
+msgid "Footer Content Type"
+msgstr ""
+
+#: theme/administrator/admin-options.php:699
+msgid "You can choose here your footer content type."
+msgstr ""
+
+#: theme/administrator/admin-options.php:703
+msgid "Custom HTML"
+msgstr ""
+
+#: theme/administrator/admin-options.php:704
+msgid "Insert your custom HTML (or you can insert custom text)."
+msgstr ""
+
+#: theme/administrator/admin-options.php:707
+msgid "Copyright Text"
+msgstr ""
+
+#: theme/administrator/admin-options.php:708
+msgid "Enter your custom copyright text that display in the footer."
+msgstr ""
+
+#: theme/administrator/admin-options.php:719
+msgid "General Theme Options"
+msgstr ""
+
+#: theme/administrator/admin-options.php:723
+msgid "Bottom Sidebar"
+msgstr ""
+
+#: theme/administrator/admin-options.php:724
+msgid "Check this box if you want to disable the bottom sidebar."
+msgstr ""
+
+#: theme/administrator/admin-options.php:730
+msgid "Breadcrumbs"
+msgstr ""
+
+#: theme/administrator/admin-options.php:731
+msgid "Check this box if you want to show the breadcrumbs."
+msgstr ""
+
+#: theme/administrator/admin-options.php:737
+msgid "Google Analytics"
+msgstr ""
+
+#: theme/administrator/admin-options.php:738
+msgid "Enter your Google Analytics code here (or you can enter other custom code)."
+msgstr ""
+
+#: theme/administrator/admin-options.php:741
+msgid "reCAPTCHA Public Key"
+msgstr ""
+
+#: theme/administrator/admin-options.php:742
+msgid "Enter your reCAPTCHA public key. You can get the reCAPTCHA public and private keys"
+msgstr ""
+
+#: theme/administrator/admin-options.php:747
+msgid "reCAPTCHA Private Key"
+msgstr ""
+
+#: theme/administrator/admin-options.php:748
+msgid "Enter your reCAPTCHA private key. You can get the reCAPTCHA public and private keys"
+msgstr ""
+
+#: theme/administrator/admin-options.php:755
+msgid "Custom Codes (Advanced Options)"
+msgstr ""
+
+#: theme/administrator/admin-options.php:757
+msgid "Custom CSS"
+msgstr ""
+
+#: theme/administrator/admin-options.php:758
+msgid "Enter your custom CSS code."
+msgstr ""
+
+#: theme/administrator/admin-options.php:761
+msgid "Custom JavaScript"
+msgstr ""
+
+#: theme/administrator/admin-options.php:762
+msgid "Enter your custom JavaScript code."
+msgstr ""
+
+#: theme/administrator/admin-options.php:767
+msgid "404 Error Page Settings"
+msgstr ""
+
+#: theme/administrator/admin-options.php:769
+msgid "Search"
+msgstr ""
+
+#: theme/administrator/admin-options.php:770
+msgid "Check this box if you want to show the search on 404 error page."
+msgstr ""
+
+#: theme/administrator/admin-options.php:776
+msgid "Sitemap Button"
+msgstr ""
+
+#: theme/administrator/admin-options.php:777
+msgid "Check this box if you want to show the sitemap button on 404 error page."
+msgstr ""
+
+#: theme/administrator/admin-options.php:783
+msgid "Sitemap Button Link"
+msgstr ""
+
+#: theme/administrator/admin-options.php:784
+msgid "Enter your 404 error page sitemap button link."
+msgstr ""
+
+#: theme/administrator/admin-options.php:791
+msgid "Sitemap Page Settings"
+msgstr ""
+
+#: theme/administrator/admin-options.php:794
+msgid "Check this box if you want to show the pages list on sitemap page."
+msgstr ""
+
+#: theme/administrator/admin-options.php:801
+msgid "Check this box if you want to show the categories list on sitemap page."
+msgstr ""
+
+#: theme/administrator/admin-options.php:808
+msgid "Check this box if you want to show the archives list on sitemap page."
+msgstr ""
+
+#: theme/administrator/admin-options.php:823
+msgid "Add Sidebar"
+msgstr ""
+
+#: theme/administrator/admin-options.php:824
+msgid "Enter the name of the new sidebar that you would like to create."
+msgstr ""
+
+#: theme/administrator/admin-options.php:830
+msgid "Sidebars created"
+msgstr ""
+
+#: theme/administrator/admin-options.php:831
+msgid "Sidebars that you create"
+msgstr ""
+
+#: theme/administrator/admin-options.php:838
+msgid "Footer Social Networks Icons Manager"
+msgstr ""
+
+#: theme/administrator/admin-options.php:842
+msgid "Footer Social Icons"
+msgstr ""
+
+#: theme/administrator/admin-options.php:843
+msgid "Choose social icons that you want to show in your website footer."
+msgstr ""
+
+#: theme/administrator/admin-options.php:857
+msgid "Theme Icons List"
+msgstr ""
+
+#: theme/administrator/admin-options.php:858
+msgid "Here you can see default theme icons or upload your own."
+msgstr ""
+
+#: theme/administrator/admin-options.php:871
+msgid "Manage Your Theme Fonts"
+msgstr ""
+
+#: theme/administrator/admin-options.php:872
+msgid "Here you can create, delete or edit your theme fonts."
+msgstr ""
+
+#: theme/administrator/admin-options.php:885
+msgid "Sharing Social Icons"
+msgstr ""
+
+#: theme/administrator/admin-options.php:886
+msgid "Choose social networks that you want to show in your sharing box."
+msgstr ""
+
+#: theme/administrator/admin-options.php:900
+msgid "SEO Settings"
+msgstr ""
+
+#: theme/administrator/admin-options.php:901
+msgid "Check this box if you want to enable your site custom SEO settings."
+msgstr ""
+
+#: theme/administrator/admin-options.php:901
+#: theme/administrator/post-options.php:67
+#: theme/administrator/post-options.php:78
+#: theme/administrator/post-options.php:104
+#: theme/administrator/post-options.php:234
+#: theme/administrator/post-options.php:282
+#: theme/administrator/post-options.php:305
+#: theme/administrator/post-options.php:317
+#: theme/administrator/post-options.php:413
+#: theme/administrator/post-options.php:615
+#: theme/administrator/post-options.php:697
+#: theme/administrator/post-options.php:707
+msgid "Note"
+msgstr ""
+
+#: theme/administrator/admin-options.php:901
+msgid "metadata that you specify in the fields below, will apply to those pages that do not have custom-metadata. If these fields are empty, metatags will be set with Wordpress."
+msgstr ""
+
+#: theme/administrator/admin-options.php:904
+msgid "Enable"
+msgstr ""
+
+#: theme/administrator/admin-options.php:905
+msgid "Disable"
+msgstr ""
+
+#: theme/administrator/admin-options.php:907
+msgid "Default Title"
+msgstr ""
+
+#: theme/administrator/admin-options.php:908
+msgid "Enter your default title text."
+msgstr ""
+
+#: theme/administrator/admin-options.php:912
+msgid "Default Description"
+msgstr ""
+
+#: theme/administrator/admin-options.php:913
+msgid "Enter your default description text."
+msgstr ""
+
+#: theme/administrator/admin-options.php:916
+msgid "Default Keywords"
+msgstr ""
+
+#: theme/administrator/admin-options.php:917
+msgid "Enter your default keywords."
+msgstr ""
+
+#: theme/administrator/admin-options.php:926
+msgid "Blog Page Template Options"
+msgstr ""
+
+#: theme/administrator/admin-options.php:930
+msgid "Posts Date"
+msgstr ""
+
+#: theme/administrator/admin-options.php:931
+msgid "Check this box if you want to show posts date."
+msgstr ""
+
+#: theme/administrator/admin-options.php:937
+msgid "Posts Categories"
+msgstr ""
+
+#: theme/administrator/admin-options.php:938
+msgid "Check this box if you want to show posts categories."
+msgstr ""
+
+#: theme/administrator/admin-options.php:944
+msgid "Posts Author"
+msgstr ""
+
+#: theme/administrator/admin-options.php:945
+msgid "Check this box if you want to show posts author."
+msgstr ""
+
+#: theme/administrator/admin-options.php:951
+msgid "Posts Comments"
+msgstr ""
+
+#: theme/administrator/admin-options.php:952
+msgid "Check this box if you want to show posts comments."
+msgstr ""
+
+#: theme/administrator/admin-options.php:958
+msgid "Posts Tags"
+msgstr ""
+
+#: theme/administrator/admin-options.php:959
+msgid "Check this box if you want to show posts tags."
+msgstr ""
+
+#: theme/administrator/admin-options.php:965
+msgid "Posts Read More Button"
+msgstr ""
+
+#: theme/administrator/admin-options.php:966
+msgid "Check this box if you want to show posts read more button."
+msgstr ""
+
+#: theme/administrator/admin-options.php:977
+msgid "Blog Post Template Options"
+msgstr ""
+
+#: theme/administrator/admin-options.php:981
+msgid "Blog Post Default Layout"
+msgstr ""
+
+#: theme/administrator/admin-options.php:982
+msgid "You can choose here your blog post default layout type."
+msgstr ""
+
+#: theme/administrator/admin-options.php:988
+msgid "Post Date"
+msgstr ""
+
+#: theme/administrator/admin-options.php:989
+msgid "Check this box if you want to show post date."
+msgstr ""
+
+#: theme/administrator/admin-options.php:995
+msgid "Post Categories"
+msgstr ""
+
+#: theme/administrator/admin-options.php:996
+msgid "Check this box if you want to show post categories."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1002
+msgid "Post Author"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1003
+msgid "Check this box if you want to show post author."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1009
+msgid "Post Comments"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1010
+msgid "Check this box if you want to show post comments."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1016
+msgid "Post Tags"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1017
+msgid "Check this box if you want to show post tags."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1023
+msgid "Posts Navigation"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1024
+msgid "Check this box if you want to show posts navigation."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1030
+msgid "Post Share This Block Visibility"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1031
+msgid "Check this box if you want to show post share this block."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1037
+msgid "Post About Author Block Default Visibility"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1038
+msgid "Check this box if you want to show post about author block by default."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1044
+msgid "Blog Related Posts Block Default Visibility"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1045
+msgid "Check this box if you want to show blog related posts block by default."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1051
+msgid "Blog Popular Block Default Visibility"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1052
+msgid "Check this box if you want to show blog popular posts block by default."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1058
+msgid "Blog Latest Posts Block Default Visibility"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1059
+msgid "Check this box if you want to show blog  latest posts block by default."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1065
+msgid "Blog Popular, Latest &amp; Related Posts Number"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1066
+msgid "Please choose popular, latest &amp; related posts block items number."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1079
+msgid "Portfolio Full Width Template Options"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1085
+#: theme/administrator/admin-options.php:1222
+msgid "One Column Template"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1087
+#: theme/administrator/admin-options.php:1119
+#: theme/administrator/admin-options.php:1151
+#: theme/administrator/admin-options.php:1183
+#: theme/administrator/admin-options.php:1224
+#: theme/administrator/admin-options.php:1256
+#: theme/administrator/admin-options.php:1288
+msgid "Projects Title"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1088
+#: theme/administrator/admin-options.php:1120
+#: theme/administrator/admin-options.php:1152
+#: theme/administrator/admin-options.php:1184
+#: theme/administrator/admin-options.php:1225
+#: theme/administrator/admin-options.php:1257
+#: theme/administrator/admin-options.php:1289
+msgid "Check this box if you want to show projects title."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1094
+#: theme/administrator/admin-options.php:1126
+#: theme/administrator/admin-options.php:1158
+#: theme/administrator/admin-options.php:1190
+#: theme/administrator/admin-options.php:1231
+#: theme/administrator/admin-options.php:1263
+#: theme/administrator/admin-options.php:1295
+msgid "Projects Categories"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1095
+#: theme/administrator/admin-options.php:1127
+#: theme/administrator/admin-options.php:1159
+#: theme/administrator/admin-options.php:1191
+#: theme/administrator/admin-options.php:1232
+#: theme/administrator/admin-options.php:1264
+#: theme/administrator/admin-options.php:1296
+msgid "Check this box if you want to show projects categories."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1101
+#: theme/administrator/admin-options.php:1133
+#: theme/administrator/admin-options.php:1165
+#: theme/administrator/admin-options.php:1197
+#: theme/administrator/admin-options.php:1238
+#: theme/administrator/admin-options.php:1270
+#: theme/administrator/admin-options.php:1302
+msgid "Projects Description"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1102
+#: theme/administrator/admin-options.php:1134
+#: theme/administrator/admin-options.php:1166
+#: theme/administrator/admin-options.php:1198
+#: theme/administrator/admin-options.php:1239
+#: theme/administrator/admin-options.php:1271
+#: theme/administrator/admin-options.php:1303
+msgid "Check this box if you want to show projects description."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1108
+#: theme/administrator/admin-options.php:1140
+#: theme/administrator/admin-options.php:1172
+#: theme/administrator/admin-options.php:1204
+#: theme/administrator/admin-options.php:1245
+#: theme/administrator/admin-options.php:1277
+#: theme/administrator/admin-options.php:1309
+msgid "Projects Read More Button"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1109
+#: theme/administrator/admin-options.php:1141
+#: theme/administrator/admin-options.php:1173
+#: theme/administrator/admin-options.php:1205
+#: theme/administrator/admin-options.php:1246
+#: theme/administrator/admin-options.php:1278
+#: theme/administrator/admin-options.php:1310
+msgid "Check this box if you want to show projects read more button."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1117
+#: theme/administrator/admin-options.php:1254
+msgid "Two Columns Template"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1149
+#: theme/administrator/admin-options.php:1286
+msgid "Three Columns Template"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1181
+msgid "Four Columns Template"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1216
+msgid "Portfolio With Sidebar Templates Options"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1320
+msgid "Portfolio Projects Default Options"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1324
+msgid "Portfolio Project Layout Default"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1325
+msgid "You can choose here your portfolio project layout type."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1331
+msgid "Project Date"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1332
+msgid "Check this box if you want to show project date."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1338
+msgid "Project Categories"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1339
+msgid "Check this box if you want to show project categories."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1345
+msgid "Project Author"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1346
+msgid "Check this box if you want to show project author."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1352
+msgid "Project Comments"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1353
+msgid "Check this box if you want to show project comments."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1359
+msgid "Project Tags"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1360
+msgid "Check this box if you want to show project tags."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1366
+msgid "Project Navigation"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1367
+msgid "Check this box if you want to show project navigation."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1373
+msgid "Project Share This Block Visibility"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1374
+msgid "Check this box if you want to show project share this block."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1380
+msgid "Project About Author Block Default Visibility"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1381
+msgid "Check this box if you want to show project about author block by default."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1387
+msgid "Portfolio Related Projects Block Default Visibility"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1388
+msgid "Check this box if you want to show related projects block."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1394
+msgid "Portfolio Popular Projects Block Default Visibility"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1395
+msgid "Check this box if you want to show popular projects block."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1401
+msgid "Portfolio Latest Projects Block Default Visibility"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1402
+msgid "Check this box if you want to show latest projects block."
+msgstr ""
+
+#: theme/administrator/admin-options.php:1408
+msgid "Portfolio Latest Projects Number Default Visibility"
+msgstr ""
+
+#: theme/administrator/admin-options.php:1409
+msgid "Please choose latest projects block items number."
+msgstr ""
+
+#: theme/administrator/form-builder.php:82
+msgid "Contact Form Builder"
+msgstr ""
+
+#: theme/administrator/form-builder.php:84
+msgid "Form settings succesfully saved"
+msgstr ""
+
+#: theme/administrator/form-builder.php:85
+msgid "Form succesfully deleted"
+msgstr ""
+
+#: theme/administrator/form-builder.php:96
+#: theme/administrator/slider-manager.php:82
+msgid "Add New"
+msgstr ""
+
+#: theme/administrator/form-builder.php:99
+msgid "Select your form here"
+msgstr ""
+
+#: theme/administrator/form-builder.php:111
+#: theme/administrator/slider-manager.php:100
+msgid "Edit"
+msgstr ""
+
+#: theme/administrator/form-builder.php:117
+#: theme/administrator/slider-manager.php:106
+msgid "Save As..."
+msgstr ""
+
+#: theme/administrator/form-builder.php:138
+msgid "Form Builder"
+msgstr ""
+
+#: theme/administrator/post-options.php:32
+msgid "Post Options"
+msgstr ""
+
+#: theme/administrator/post-options.php:41
+msgid "Enter link text here"
+msgstr ""
+
+#: theme/administrator/post-options.php:43
+msgid "Enter Link Text"
+msgstr ""
+
+#: theme/administrator/post-options.php:44
+msgid "Enter the link that you would like to display on this item."
+msgstr ""
+
+#: theme/administrator/post-options.php:53
+msgid "Enter link adress here"
+msgstr ""
+
+#: theme/administrator/post-options.php:55
+msgid "Link adress"
+msgstr ""
+
+#: theme/administrator/post-options.php:56
+msgid "Enter the link adress that you would like to display on this item."
+msgstr ""
+
+#: theme/administrator/post-options.php:66
+#: theme/administrator/post-options.php:386
+msgid "Video Link"
+msgstr ""
+
+#: theme/administrator/post-options.php:67
+#: theme/administrator/post-options.php:387
+msgid "Enter the link to video that you would like to display on this item."
+msgstr ""
+
+#: theme/administrator/post-options.php:67
+msgid "you can use link to youtube or vimeo for embeded video"
+msgstr ""
+
+#: theme/administrator/post-options.php:67
+msgid "or urls to video files for video player in format"
+msgstr ""
+
+#: theme/administrator/post-options.php:67
+#: theme/administrator/post-options.php:78
+msgid "first_file_extensions: first_file_url, second_file_extensions: second_file_url"
+msgstr ""
+
+#: theme/administrator/post-options.php:77
+msgid "Audio Link"
+msgstr ""
+
+#: theme/administrator/post-options.php:78
+msgid "Enter the link to audio that you would like to display on this item."
+msgstr ""
+
+#: theme/administrator/post-options.php:78
+msgid "you can use urls to audio files for audioo player in format"
+msgstr ""
+
+#: theme/administrator/post-options.php:93
+#: theme/administrator/post-options.php:223
+#: theme/administrator/post-options.php:402
+msgid "Page Layout Type"
+msgstr ""
+
+#: theme/administrator/post-options.php:94
+#: theme/administrator/post-options.php:224
+#: theme/administrator/post-options.php:403
+msgid "Choose current page layout type."
+msgstr ""
+
+#: theme/administrator/post-options.php:103
+#: theme/administrator/post-options.php:233
+#: theme/administrator/post-options.php:412
+msgid "Custom Sidebar"
+msgstr ""
+
+#: theme/administrator/post-options.php:104
+#: theme/administrator/post-options.php:234
+#: theme/administrator/post-options.php:413
+msgid "Select the custom sidebar that you would like to display on this page."
+msgstr ""
+
+#: theme/administrator/post-options.php:104
+#: theme/administrator/post-options.php:234
+#: theme/administrator/post-options.php:413
+msgid "first you will need to create a custom sidebar in your themes option panel before it will show up here."
+msgstr ""
+
+#: theme/administrator/post-options.php:112
+msgid "Read More"
+msgstr ""
+
+#: theme/administrator/post-options.php:114
+msgid "Post Read More Button Text"
+msgstr ""
+
+#: theme/administrator/post-options.php:115
+msgid "Enter the post read more button text that you would like to display on this item."
+msgstr ""
+
+#: theme/administrator/post-options.php:124
+#: theme/administrator/post-options.php:448
+msgid "Sharing Box Visibility"
+msgstr ""
+
+#: theme/administrator/post-options.php:125
+msgid "Choose sharing box visibility for current article."
+msgstr ""
+
+#: theme/administrator/post-options.php:126
+#: theme/administrator/post-options.php:450
+msgid "Enable Sharing Box"
+msgstr ""
+
+#: theme/administrator/post-options.php:127
+#: theme/administrator/post-options.php:451
+msgid "Disable Sharing Box"
+msgstr ""
+
+#: theme/administrator/post-options.php:138
+#: theme/administrator/post-options.php:462
+msgid "About Author Box Visibility"
+msgstr ""
+
+#: theme/administrator/post-options.php:139
+msgid "Choose about author box visibility for current article."
+msgstr ""
+
+#: theme/administrator/post-options.php:140
+#: theme/administrator/post-options.php:464
+msgid "Enable About Author Box"
+msgstr ""
+
+#: theme/administrator/post-options.php:141
+#: theme/administrator/post-options.php:465
+msgid "Disable About Author Box"
+msgstr ""
+
+#: theme/administrator/post-options.php:152
+msgid "Related Posts Box Visibility"
+msgstr ""
+
+#: theme/administrator/post-options.php:153
+msgid "Choose related posts box visibility for current article."
+msgstr ""
+
+#: theme/administrator/post-options.php:154
+msgid "Enable Related Posts Box"
+msgstr ""
+
+#: theme/administrator/post-options.php:155
+msgid "Disable Related Posts Box"
+msgstr ""
+
+#: theme/administrator/post-options.php:166
+msgid "Popular Posts Box Visibility"
+msgstr ""
+
+#: theme/administrator/post-options.php:167
+msgid "Choose popular posts box visibility for current article."
+msgstr ""
+
+#: theme/administrator/post-options.php:168
+msgid "Enable Popular Posts Box"
+msgstr ""
+
+#: theme/administrator/post-options.php:169
+msgid "Disable Popular Posts Box"
+msgstr ""
+
+#: theme/administrator/post-options.php:180
+msgid "Recent Posts Box Visibility"
+msgstr ""
+
+#: theme/administrator/post-options.php:181
+msgid "Choose recent posts box visibility for current article."
+msgstr ""
+
+#: theme/administrator/post-options.php:182
+msgid "Enable Recent Posts Box"
+msgstr ""
+
+#: theme/administrator/post-options.php:183
+msgid "Disable Recent Posts Box"
+msgstr ""
+
+#: theme/administrator/post-options.php:194
+#: theme/administrator/post-options.php:340
+#: theme/administrator/post-options.php:518
+msgid "Middle Horizontal Sidebar"
+msgstr ""
+
+#: theme/administrator/post-options.php:195
+#: theme/administrator/post-options.php:341
+#: theme/administrator/post-options.php:519
+msgid "Choose current page middle horizontal sidebar visibility here."
+msgstr ""
+
+#: theme/administrator/post-options.php:197
+#: theme/administrator/post-options.php:343
+#: theme/administrator/post-options.php:521
+msgid "Enable Middle Sidebar"
+msgstr ""
+
+#: theme/administrator/post-options.php:198
+#: theme/administrator/post-options.php:344
+#: theme/administrator/post-options.php:522
+msgid "Disable Middle Sidebar"
+msgstr ""
+
+#: theme/administrator/post-options.php:208
+msgid "General Page Options"
+msgstr ""
+
+#: theme/administrator/post-options.php:244
+#: theme/administrator/post-options.php:255
+#: theme/administrator/post-options.php:364
+#: theme/administrator/post-options.php:375
+msgid "Column Number"
+msgstr ""
+
+#: theme/administrator/post-options.php:245
+#: theme/administrator/post-options.php:256
+msgid "Select the number of columns for current page."
+msgstr ""
+
+#: theme/administrator/post-options.php:266
+msgid "Order Type"
+msgstr ""
+
+#: theme/administrator/post-options.php:267
+msgid "Select the posts order type"
+msgstr ""
+
+#: theme/administrator/post-options.php:279
+msgid "DESC"
+msgstr ""
+
+#: theme/administrator/post-options.php:280
+msgid "ASC"
+msgstr ""
+
+#: theme/administrator/post-options.php:281
+msgid "Order"
+msgstr ""
+
+#: theme/administrator/post-options.php:282
+msgid "Select the order."
+msgstr ""
+
+#: theme/administrator/post-options.php:282
+msgid "from larger to smaller or backwords"
+msgstr ""
+
+#: theme/administrator/post-options.php:294
+msgid "Items Per Page"
+msgstr ""
+
+#: theme/administrator/post-options.php:295
+msgid "Type the number of items per page"
+msgstr ""
+
+#: theme/administrator/post-options.php:304
+msgid "Blog Category"
+msgstr ""
+
+#: theme/administrator/post-options.php:305
+msgid "Select the blog category that you would like to display on this page."
+msgstr ""
+
+#: theme/administrator/post-options.php:305
+msgid "first you will need to create a category of posts in posts tab of admin panel before it will show up here."
+msgstr ""
+
+#: theme/administrator/post-options.php:305
+msgid "if you not choose any category than all posts will be shown on this page"
+msgstr ""
+
+#: theme/administrator/post-options.php:316
+msgid "Portfolio Type"
+msgstr ""
+
+#: theme/administrator/post-options.php:317
+msgid "Select the type of portfolio that you would like to display on this page."
+msgstr ""
+
+#: theme/administrator/post-options.php:317
+msgid "first you will need to create a type of portfolio in portfolio post type tab of admin panel before it will show up here."
+msgstr ""
+
+#: theme/administrator/post-options.php:317
+msgid "if you not choose any type than all portfolio will be shown on this page"
+msgstr ""
+
+#: theme/administrator/post-options.php:326
+msgid "Items Filter & Sort"
+msgstr ""
+
+#: theme/administrator/post-options.php:327
+msgid "Choose current page items filter & sort visibility here."
+msgstr ""
+
+#: theme/administrator/post-options.php:329
+msgid "Enable Filter & Sort"
+msgstr ""
+
+#: theme/administrator/post-options.php:330
+msgid "Disable Filter & Sort"
+msgstr ""
+
+#: theme/administrator/post-options.php:354
+msgid "Project Options"
+msgstr ""
+
+#: theme/administrator/post-options.php:365
+#: theme/administrator/post-options.php:376
+msgid "Select the number of columns for current project."
+msgstr ""
+
+#: theme/administrator/post-options.php:421
+msgid "View Project"
+msgstr ""
+
+#: theme/administrator/post-options.php:423
+msgid "Project Read More Button Text"
+msgstr ""
+
+#: theme/administrator/post-options.php:424
+msgid "Enter the portfolio project reed more button text that you would like to display on this item."
+msgstr ""
+
+#: theme/administrator/post-options.php:436
+msgid "Cover"
+msgstr ""
+
+#: theme/administrator/post-options.php:437
+msgid "Project Format"
+msgstr ""
+
+#: theme/administrator/post-options.php:438
+msgid "Portfolio Page Display Type"
+msgstr ""
+
+#: theme/administrator/post-options.php:439
+msgid "Choose portfolio page display type cover that links to project page or project format (slider, video, cover with lightbox)."
+msgstr ""
+
+#: theme/administrator/post-options.php:449
+msgid "Choose sharing box visibility for current project."
+msgstr ""
+
+#: theme/administrator/post-options.php:463
+msgid "Choose about author box visibility for current project."
+msgstr ""
+
+#: theme/administrator/post-options.php:476
+msgid "Related Projects Box Visibility"
+msgstr ""
+
+#: theme/administrator/post-options.php:477
+msgid "Choose related projects box visibility for current project."
+msgstr ""
+
+#: theme/administrator/post-options.php:478
+msgid "Enable Related Projects Box"
+msgstr ""
+
+#: theme/administrator/post-options.php:479
+msgid "Disable Related Projects Box"
+msgstr ""
+
+#: theme/administrator/post-options.php:490
+msgid "Popular Projects Box Visibility"
+msgstr ""
+
+#: theme/administrator/post-options.php:491
+msgid "Choose popular projects box visibility for current project."
+msgstr ""
+
+#: theme/administrator/post-options.php:492
+msgid "Enable Popular Projects Box"
+msgstr ""
+
+#: theme/administrator/post-options.php:493
+msgid "Disable Popular Projects Box"
+msgstr ""
+
+#: theme/administrator/post-options.php:504
+msgid "Recent Projects Box Visibility"
+msgstr ""
+
+#: theme/administrator/post-options.php:505
+msgid "Choose recent projects box visibility for current project."
+msgstr ""
+
+#: theme/administrator/post-options.php:506
+msgid "Enable Recent Projects Box"
+msgstr ""
+
+#: theme/administrator/post-options.php:507
+msgid "Disable Recent Projects Box"
+msgstr ""
+
+#: theme/administrator/post-options.php:532
+msgid "Page Slider Options"
+msgstr ""
+
+#: theme/administrator/post-options.php:541
+msgid "Page Slider"
+msgstr ""
+
+#: theme/administrator/post-options.php:542
+msgid "Choose current page slider visibility."
+msgstr ""
+
+#: theme/administrator/post-options.php:544
+msgid "Disable Slider"
+msgstr ""
+
+#: theme/administrator/post-options.php:545
+msgid "Enable Slider"
+msgstr ""
+
+#: theme/administrator/post-options.php:555
+msgid "Slider Name"
+msgstr ""
+
+#: theme/administrator/post-options.php:556
+msgid "Select slider for current page."
+msgstr ""
+
+#: theme/administrator/post-options.php:565
+msgid "Page Heading Options"
+msgstr ""
+
+#: theme/administrator/post-options.php:574
+msgid "Custom Page Heading"
+msgstr ""
+
+#: theme/administrator/post-options.php:575
+msgid "Choose current page heading style here."
+msgstr ""
+
+#: theme/administrator/post-options.php:577
+msgid "Use Default Heading"
+msgstr ""
+
+#: theme/administrator/post-options.php:578
+msgid "Use Custom Heading"
+msgstr ""
+
+#: theme/administrator/post-options.php:579
+msgid "Use Top Sidebar"
+msgstr ""
+
+#: theme/administrator/post-options.php:580
+msgid "Disable Heading"
+msgstr ""
+
+#: theme/administrator/post-options.php:593
+msgid "Custom Heading Title"
+msgstr ""
+
+#: theme/administrator/post-options.php:594
+msgid "Enter your custom heading title for this page."
+msgstr ""
+
+#: theme/administrator/post-options.php:604
+msgid "Custom Heading Description"
+msgstr ""
+
+#: theme/administrator/post-options.php:605
+msgid "Enter your custom heading description text for this page."
+msgstr ""
+
+#: theme/administrator/post-options.php:614
+msgid "Custom Heading Icon"
+msgstr ""
+
+#: theme/administrator/post-options.php:615
+msgid "Choose your custom heading icon for this page."
+msgstr ""
+
+#: theme/administrator/post-options.php:615
+msgid "also you can download your own icon from CMSMasters Admin Panel > General Options > Theme Icons"
+msgstr ""
+
+#: theme/administrator/post-options.php:624
+msgid "Custom Breadcrumbs Options"
+msgstr ""
+
+#: theme/administrator/post-options.php:633
+#: theme/administrator/post-options.php:650
+msgid "Custom Breadcrumbs"
+msgstr ""
+
+#: theme/administrator/post-options.php:634
+msgid "Choose \"Use Custom Breadcrumbs\" if you want use it on this item."
+msgstr ""
+
+#: theme/administrator/post-options.php:636
+msgid "Use Default Breadcrumbs"
+msgstr ""
+
+#: theme/administrator/post-options.php:637
+msgid "Use Custom Breadcrumbs"
+msgstr ""
+
+#: theme/administrator/post-options.php:638
+msgid "Disable Breadcrumbs"
+msgstr ""
+
+#: theme/administrator/post-options.php:651
+msgid "Enter your custom breadcrumbs text and link, or choose page and add it to your breadcrumbs list that you would like to show on this page between home page link and current page name."
+msgstr ""
+
+#: theme/administrator/post-options.php:652
+msgid "Page Name"
+msgstr ""
+
+#: theme/administrator/post-options.php:653
+msgid "Page Link"
+msgstr ""
+
+#: theme/administrator/post-options.php:672
+#: theme/administrator/post-options.php:681
+msgid "Custom SEO Options"
+msgstr ""
+
+#: theme/administrator/post-options.php:682
+msgid "Choose \"Use Custom SEO Options\" if you want use it on this item."
+msgstr ""
+
+#: theme/administrator/post-options.php:684
+msgid "Use Default SEO Options"
+msgstr ""
+
+#: theme/administrator/post-options.php:685
+msgid "Use Custom SEO Options"
+msgstr ""
+
+#: theme/administrator/post-options.php:696
+msgid "Custom Title"
+msgstr ""
+
+#: theme/administrator/post-options.php:697
+msgid "Enter your custom this item title."
+msgstr ""
+
+#: theme/administrator/post-options.php:697
+msgid "we recommend you enter no more than 60 characters"
+msgstr ""
+
+#: theme/administrator/post-options.php:706
+msgid "Custom Description"
+msgstr ""
+
+#: theme/administrator/post-options.php:707
+msgid "Enter your custom this item description."
+msgstr ""
+
+#: theme/administrator/post-options.php:707
+msgid "we recommend you enter no more than 160 characters"
+msgstr ""
+
+#: theme/administrator/post-options.php:716
+msgid "Custom Keywords"
+msgstr ""
+
+#: theme/administrator/post-options.php:717
+msgid "Enter your custom this item keywords."
+msgstr ""
+
+#: theme/administrator/post-options.php:743
+msgid "more info"
+msgstr ""
+
+#: theme/administrator/post-options.php:793
+#: theme/administrator/post-options.php:797
+#: theme/administrator/post-options.php:1024
+#: theme/administrator/post-options.php:1028
+#: theme/administrator/post-options.php:1231
+msgid "Enter"
+msgstr ""
+
+#: theme/administrator/post-options.php:801
+msgid "Or Select Page"
+msgstr ""
+
+#: theme/administrator/post-options.php:803
+msgid "Select Page Name & Link"
+msgstr ""
+
+#: theme/administrator/post-options.php:816
+#: theme/administrator/post-options.php:1032
+#: theme/administrator/post-options.php:1235
+msgid "Delete Item"
+msgstr ""
+
+#: theme/administrator/post-options.php:817
+#: theme/administrator/post-options.php:1033
+#: theme/administrator/post-options.php:1236
+msgid "Update Item"
+msgstr ""
+
+#: theme/administrator/post-options.php:818
+#: theme/administrator/post-options.php:1034
+#: theme/administrator/post-options.php:1237
+msgid "Add Item"
+msgstr ""
+
+#: theme/administrator/post-options.php:889
+msgid "Enter breadcrumb text and link!"
+msgstr ""
+
+#: theme/administrator/post-options.php:1105
+msgid "Enter attribute name and value!"
+msgstr ""
+
+#: theme/administrator/post-options.php:1292
+msgid "Enter feature text!"
+msgstr ""
+
+#: theme/administrator/post-options.php:1420
+msgid "Disable Heading Icon"
+msgstr ""
+
+#: theme/administrator/post-options.php:1726
+msgid "Order by Date"
+msgstr ""
+
+#: theme/administrator/post-options.php:1731
+msgid "Menu Order"
+msgstr ""
+
+#: theme/administrator/post-options.php:1736
+msgid "Random Order"
+msgstr ""
+
+#: theme/administrator/post-options.php:1748
+msgid "Select a Blog Category"
+msgstr ""
+
+#: theme/administrator/post-options.php:1772
+msgid "Select a Sidebar"
+msgstr ""
+
+#: theme/administrator/post-options.php:1798
+msgid "Select a"
+msgstr ""
+
+#: theme/administrator/post-options.php:1835
+msgid "You Need Create Slider"
+msgstr ""
+
+#: theme/administrator/post-options.php:1850
+#: theme/administrator/post-options.php:1883
+#: theme/administrator/post-options.php:1911
+#: theme/administrator/post-options.php:1944
+msgid "Select a Number of Columns"
+msgstr ""
+
+#: theme/administrator/post-options.php:1855
+#: theme/administrator/post-options.php:1888
+#: theme/administrator/post-options.php:1916
+#: theme/administrator/post-options.php:1949
+msgid "One Column"
+msgstr ""
+
+#: theme/administrator/post-options.php:1860
+#: theme/administrator/post-options.php:1893
+#: theme/administrator/post-options.php:1921
+#: theme/administrator/post-options.php:1954
+msgid "Two Columns"
+msgstr ""
+
+#: theme/administrator/post-options.php:1865
+#: theme/administrator/post-options.php:1898
+#: theme/administrator/post-options.php:1926
+#: theme/administrator/post-options.php:1959
+msgid "Three Columns"
+msgstr ""
+
+#: theme/administrator/post-options.php:1870
+#: theme/administrator/post-options.php:1931
+msgid "Four Columns"
+msgstr ""
+
+#: theme/administrator/post-options.php:1984
+msgid "Disable Pattern"
+msgstr ""
+
+#: theme/administrator/slider-manager.php:66
+#: theme/administrator/slider-manager.php:128
+msgid "Slider Manager"
+msgstr ""
+
+#: theme/administrator/slider-manager.php:68
+msgid "Slider settings succesfully saved"
+msgstr ""
+
+#: theme/administrator/slider-manager.php:69
+msgid "Slider succesfully deleted"
+msgstr ""
+
+#: theme/administrator/slider-manager.php:85
+msgid "Responsive Slider"
+msgstr ""
+
+#: theme/administrator/slider-manager.php:86
+msgid "Motion Slider"
+msgstr ""
+
+#: theme/administrator/slider-manager.php:89
+msgid "Select your slider here"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin.js.php:19
+#: theme/administrator/tinymce/audio/quicktag_plugin.js.php:19
+msgid "You must be logged in to access this script"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin.js.php:33
+#: theme/administrator/tinymce/audio/editor_plugin.js.php:80
+msgid "CMSMasters"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin.js.php:33
+msgid "Shortcode"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin.js.php:79
+msgid "Shortcode Selector"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:19
+msgid "You must be logged in to access this page"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:71
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:85
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:273
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:287
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:367
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:381
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:411
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:425
+msgid "URL"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:74
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:88
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:102
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:276
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:290
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:304
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:317
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:370
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:384
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:398
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:414
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:428
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:442
+msgid "required"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:79
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:375
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:419
+msgid "For Internet Explorer, Google Chrome and Apple Safari"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:93
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:295
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:389
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:433
+msgid "For Firefox, Google Chrome and Opera"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:134
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:183
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:216
+msgid "Enter required fields!"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:256
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:258
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:260
+msgid "Set Your Custom"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:256
+msgid "HTML 5 Audio"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:256
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:258
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:260
+msgid "Shortcode Options"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:258
+msgid "Audio Player"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:260
+msgid "Audio Player With Playlist"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:281
+msgid "For Internet Explorer (9+), Google Chrome and Apple Safari"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:301
+msgid "Not Support Text"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:308
+#: theme/administrator/tinymce/audio/quicktag_plugin.js.php:26
+msgid "Your browser does not support the audio tag"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:314
+msgid "Preloading"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:322
+msgid "Not preload"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:323
+msgid "Preload auto"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:324
+msgid "Preload as metadata"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:331
+msgid "Controls"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:336
+msgid "Show controls"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:342
+msgid "Autoplay"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:347
+msgid "Autoplay audio"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:358
+msgid "Repeat audio"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:452
+msgid "Add Audio to Playlist"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_popup.php:467
+msgid "Insert Shortcode"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_register.php:21
+msgid "Audio"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_register.php:23
+msgid "HTML5 Audio"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_register.php:24
+msgid "Single Audio Player"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/editor_plugin_register.php:25
+msgid "Multiple Audio Player"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/quicktag_plugin.js.php:26
+#: theme/administrator/tinymce/audio/quicktag_plugin.js.php:32
+msgid "Insert your mp3 file url here"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/quicktag_plugin.js.php:26
+#: theme/administrator/tinymce/audio/quicktag_plugin.js.php:32
+msgid "Insert your ogg file url here"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/quicktag_plugin.js.php:32
+msgid "Insert your audio title here"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/quicktag_plugin.js.php:38
+msgid "Insert your"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/quicktag_plugin.js.php:38
+msgid "mp3 file url here"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/quicktag_plugin.js.php:38
+msgid "ogg file url here"
+msgstr ""
+
+#: theme/administrator/tinymce/audio/quicktag_plugin.js.php:38
+msgid "audio title here"
+msgstr ""
+
+#: theme/administrator/tinymce/box/editor_plugin.js.php:36
+#: theme/administrator/tinymce/box/editor_plugin.js.php:38
+#: theme/administrator/tinymce/column/editor_plugin.js.php:36
+#: theme/administrator/tinymce/column/editor_plugin.js.php:38
+msgid "Insert you text here"
+msgstr ""
+
+#: theme/administrator/tinymce/box/editor_plugin_register.php:21
+msgid "Information Boxes"
+msgstr ""
+
+#: theme/administrator/tinymce/box/editor_plugin_register.php:23
+msgid "Success Box"
+msgstr ""
+
+#: theme/administrator/tinymce/box/editor_plugin_register.php:24
+msgid "Error Box"
+msgstr ""
+
+#: theme/administrator/tinymce/box/editor_plugin_register.php:25
+msgid "Notice Box"
+msgstr ""
+
+#: theme/administrator/tinymce/box/editor_plugin_register.php:26
+msgid "Warning Box"
+msgstr ""
+
+#: theme/administrator/tinymce/box/editor_plugin_register.php:27
+msgid "Download Box"
+msgstr ""
+
+#: theme/administrator/tinymce/button/editor_plugin_popup.php:139
+#: theme/administrator/tinymce/button/editor_plugin_register.php:20
+msgid "Button"
+msgstr ""
+
+#: theme/administrator/tinymce/button/editor_plugin_popup.php:147
+msgid "Text"
+msgstr ""
+
+#: theme/administrator/tinymce/button/editor_plugin_popup.php:160
+msgid "Link"
+msgstr ""
+
+#: theme/administrator/tinymce/button/editor_plugin_popup.php:173
+msgid "Type"
+msgstr ""
+
+#: theme/administrator/tinymce/button/editor_plugin_popup.php:181
+msgid "Small button"
+msgstr ""
+
+#: theme/administrator/tinymce/button/editor_plugin_popup.php:182
+msgid "Medium button"
+msgstr ""
+
+#: theme/administrator/tinymce/button/editor_plugin_popup.php:183
+msgid "Large button"
+msgstr ""
+
+#: theme/administrator/tinymce/button/editor_plugin_popup.php:190
+msgid "Background Color"
+msgstr ""
+
+#: theme/administrator/tinymce/button/editor_plugin_popup.php:210
+msgid "Target"
+msgstr ""
+
+#: theme/administrator/tinymce/button/editor_plugin_popup.php:215
+msgid "Open link in a new tab/window"
+msgstr ""
+
+#: theme/administrator/tinymce/button/editor_plugin_popup.php:221
+msgid "Lightbox"
+msgstr ""
+
+#: theme/administrator/tinymce/button/editor_plugin_popup.php:226
+msgid "Open link in a lightbox"
+msgstr ""
+
+#: theme/administrator/tinymce/button/editor_plugin_popup.php:232
+msgid "Tooltip"
+msgstr ""
+
+#: theme/administrator/tinymce/button/editor_plugin_popup.php:237
+msgid "Show tooltip on button mouseover"
+msgstr ""
+
+#: theme/administrator/tinymce/button/editor_plugin_popup.php:243
+msgid "Tooltip Text"
+msgstr ""
+
+#: theme/administrator/tinymce/column/editor_plugin_register.php:21
+msgid "Columns"
+msgstr ""
+
+#: theme/administrator/tinymce/column/editor_plugin_register.php:23
+msgid "One Half"
+msgstr ""
+
+#: theme/administrator/tinymce/column/editor_plugin_register.php:24
+msgid "One Half Last"
+msgstr ""
+
+#: theme/administrator/tinymce/column/editor_plugin_register.php:25
+msgid "One Third"
+msgstr ""
+
+#: theme/administrator/tinymce/column/editor_plugin_register.php:26
+msgid "One Third Last"
+msgstr ""
+
+#: theme/administrator/tinymce/column/editor_plugin_register.php:27
+msgid "Two Third"
+msgstr ""
+
+#: theme/administrator/tinymce/column/editor_plugin_register.php:28
+msgid "Two Third Last"
+msgstr ""
+
+#: theme/administrator/tinymce/column/editor_plugin_register.php:29
+msgid "One Fourth"
+msgstr ""
+
+#: theme/administrator/tinymce/column/editor_plugin_register.php:30
+msgid "One Fourth Last"
+msgstr ""
+
+#: theme/administrator/tinymce/column/editor_plugin_register.php:31
+msgid "Three Fourth"
+msgstr ""
+
+#: theme/administrator/tinymce/column/editor_plugin_register.php:32
+msgid "Three Fourth Last"
+msgstr ""
+
+#: theme/administrator/tinymce/divider/editor_plugin_register.php:21
+msgid "Dividers"
+msgstr ""
+
+#: theme/administrator/tinymce/divider/editor_plugin_register.php:23
+msgid "Divider Top"
+msgstr ""
+
+#: theme/administrator/tinymce/divider/editor_plugin_register.php:24
+msgid "Divider"
+msgstr ""
+
+#: theme/administrator/tinymce/divider/editor_plugin_register.php:25
+msgid "Clear"
+msgstr ""
+
+#: theme/administrator/tinymce/dropcap/editor_plugin.js.php:36
+#: theme/administrator/tinymce/dropcap/editor_plugin.js.php:38
+msgid "Insert you text here..."
+msgstr ""
+
+#: theme/administrator/tinymce/dropcap/editor_plugin_register.php:21
+msgid "Dropcaps"
+msgstr ""
+
+#: theme/administrator/tinymce/dropcap/editor_plugin_register.php:23
+msgid "Dropcap 1"
+msgstr ""
+
+#: theme/administrator/tinymce/dropcap/editor_plugin_register.php:24
+msgid "Dropcap 2"
+msgstr ""
+
+#: theme/administrator/tinymce/email/editor_plugin_popup.php:99
+#: theme/administrator/tinymce/email/editor_plugin_register.php:20
+msgid "Contact Form"
+msgstr ""
+
+#: theme/administrator/tinymce/email/editor_plugin_popup.php:107
+msgid "Form Name"
+msgstr ""
+
+#: theme/administrator/tinymce/email/editor_plugin_popup.php:115
+msgid "Choose Form Name Here"
+msgstr ""
+
+#: theme/administrator/tinymce/email/editor_plugin_popup.php:127
+msgid "Email Address"
+msgstr ""
+
+#: theme/administrator/tinymce/email/editor_plugin_popup.php:135
+msgid "You can enter multiple email addresses separated by commas"
+msgstr ""
+
+#: theme/administrator/tinymce/email/quicktag_plugin.js.php:26
+msgid "Insert you contact form ID here"
+msgstr ""
+
+#: theme/administrator/tinymce/email/quicktag_plugin.js.php:26
+msgid "Insert you email address here"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:194
+#: theme/administrator/tinymce/map/editor_plugin_register.php:20
+msgid "Google Map"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:202
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:338
+msgid "Map Type"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:210
+msgid "Roadmap"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:211
+msgid "Terrain"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:212
+msgid "Hybrid"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:213
+msgid "Satellite"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:220
+msgid "Map Zoom"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:233
+msgid "Address Type"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:241
+msgid "Use address"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:244
+msgid "Use coordinates"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:250
+msgid "Address"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:263
+msgid "Latitude"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:276
+msgid "Longitude"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:289
+msgid "Marker"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:294
+msgid "Use marker"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:300
+msgid "Popup HTML"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:310
+msgid "Popup Visibility"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:315
+msgid "Open popup on load"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:321
+msgid "Choose Google Map Controls"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:327
+msgid "Scroll Wheel"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:332
+msgid "Use scroll wheel"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:343
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:354
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:365
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:376
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:387
+msgid "Enable control"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:349
+msgid "Zoom"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:360
+msgid "Pan"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:371
+msgid "Scale"
+msgstr ""
+
+#: theme/administrator/tinymce/map/editor_plugin_popup.php:382
+msgid "Street View"
+msgstr ""
+
+#: theme/administrator/tinymce/map/quicktag_plugin.js.php:26
+msgid "Insert you address here"
+msgstr ""
+
+#: theme/administrator/tinymce/map/quicktag_plugin.js.php:26
+msgid "Insert you latitude here"
+msgstr ""
+
+#: theme/administrator/tinymce/map/quicktag_plugin.js.php:26
+msgid "Insert you longitude here"
+msgstr ""
+
+#: theme/administrator/tinymce/map/quicktag_plugin.js.php:26
+msgid "Insert you map popup text here"
+msgstr ""
+
+#: theme/administrator/tinymce/post/editor_plugin_popup.php:117
+msgid "Error! Choose another posts sorting."
+msgstr ""
+
+#: theme/administrator/tinymce/post/editor_plugin_popup.php:157
+#: theme/administrator/tinymce/post/editor_plugin_register.php:20
+msgid "Post Types"
+msgstr ""
+
+#: theme/administrator/tinymce/post/editor_plugin_popup.php:165
+msgid "Posts Type"
+msgstr ""
+
+#: theme/administrator/tinymce/post/editor_plugin_popup.php:173
+msgid "Blog"
+msgstr ""
+
+#: theme/administrator/tinymce/post/editor_plugin_popup.php:181
+msgid "Posts Sorting"
+msgstr ""
+
+#: theme/administrator/tinymce/post/editor_plugin_popup.php:189
+msgid "Latest"
+msgstr ""
+
+#: theme/administrator/tinymce/post/editor_plugin_popup.php:190
+msgid "Popular"
+msgstr ""
+
+#: theme/administrator/tinymce/post/editor_plugin_popup.php:191
+msgid "Category"
+msgstr ""
+
+#: theme/administrator/tinymce/post/editor_plugin_popup.php:198
+msgid "Posts Category"
+msgstr ""
+
+#: theme/administrator/tinymce/post/editor_plugin_popup.php:220
+msgid "You need to create posts category before using this sorting type"
+msgstr ""
+
+#: theme/administrator/tinymce/post/editor_plugin_popup.php:251
+msgid "You need to create portfolio type before using this sorting type"
+msgstr ""
+
+#: theme/administrator/tinymce/post/editor_plugin_popup.php:260
+msgid "Posts Number"
+msgstr ""
+
+#: theme/administrator/tinymce/post/editor_plugin_popup.php:273
+msgid "Posts Images"
+msgstr ""
+
+#: theme/administrator/tinymce/post/editor_plugin_popup.php:278
+msgid "Show posts featured images"
+msgstr ""
+
+#: theme/administrator/tinymce/post/editor_plugin_popup.php:284
+msgid "Posts Content"
+msgstr ""
+
+#: theme/administrator/tinymce/post/editor_plugin_popup.php:289
+msgid "Show posts content"
+msgstr ""
+
+#: theme/administrator/tinymce/post/editor_plugin_popup.php:295
+msgid "Posts Info"
+msgstr ""
+
+#: theme/administrator/tinymce/post/editor_plugin_popup.php:300
+msgid "Show posts additional information"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:271
+#: theme/administrator/tinymce/slider/editor_plugin_register.php:20
+msgid "Content Slider"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:279
+msgid "Slider Images"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:286
+msgid "Select slider images"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:287
+msgid "Close images list"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:289
+msgid "Older images"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:290
+msgid "Newer images"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:298
+msgid "Height Type"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:306
+msgid "Use automatic height"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:309
+msgid "Use fixed height"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:315
+msgid "Height"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:329
+msgid "Animation Speed"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:337
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:413
+msgid "in seconds"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:343
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:360
+msgid "Animation Effect"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:351
+msgid "Slide"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:354
+msgid "Fade"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:368
+msgid "None"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:405
+msgid "Pause Time"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:419
+msgid "Active Slide"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:432
+msgid "Pause on Hover"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:437
+msgid "Pause slider on mouseover"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:443
+msgid "Choose Content Slider Controls"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:449
+msgid "Touch Control"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:454
+msgid "Use touch control"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:460
+msgid "Slides Control"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:465
+msgid "Use slides control"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:471
+msgid "Slides C. Hover"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:476
+msgid "Show slides control only on mouseover"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:482
+msgid "Arrow Control"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:487
+msgid "Use arrow control"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:493
+msgid "Arrow C. Hover"
+msgstr ""
+
+#: theme/administrator/tinymce/slider/editor_plugin_popup.php:498
+msgid "Show arrow control only on mouseover"
+msgstr ""
+
+#: theme/administrator/tinymce/tab/editor_plugin_popup.php:76
+#: theme/administrator/tinymce/tab/editor_plugin_popup.php:365
+#: theme/administrator/tinymce/tab/editor_plugin_popup.php:455
+msgid "Tab Label"
+msgstr ""
+
+#: theme/administrator/tinymce/tab/editor_plugin_popup.php:89
+#: theme/administrator/tinymce/tab/editor_plugin_popup.php:378
+#: theme/administrator/tinymce/tab/editor_plugin_popup.php:468
+msgid "Tab Content"
+msgstr ""
+
+#: theme/administrator/tinymce/tab/editor_plugin_popup.php:107
+#: theme/administrator/tinymce/tab/editor_plugin_popup.php:397
+#: theme/administrator/tinymce/tab/editor_plugin_popup.php:423
+msgid "Toggle Label"
+msgstr ""
+
+#: theme/administrator/tinymce/tab/editor_plugin_popup.php:120
+#: theme/administrator/tinymce/tab/editor_plugin_popup.php:410
+#: theme/administrator/tinymce/tab/editor_plugin_popup.php:436
+msgid "Toggle Content"
+msgstr ""
+
+#: theme/administrator/tinymce/tab/editor_plugin_popup.php:346
+#: theme/administrator/tinymce/tab/editor_plugin_register.php:23
+msgid "Tabs"
+msgstr ""
+
+#: theme/administrator/tinymce/tab/editor_plugin_popup.php:348
+#: theme/administrator/tinymce/tab/editor_plugin_register.php:24
+#: theme/administrator/tinymce/tab/quicktag_plugin.js.php:33
+#: theme/administrator/tinymce/tab/quicktag_plugin.js.php:40
+#: theme/administrator/tinymce/tab/quicktag_plugin.js.php:41
+msgid "Toggle"
+msgstr ""
+
+#: theme/administrator/tinymce/tab/editor_plugin_popup.php:350
+#: theme/administrator/tinymce/tab/editor_plugin_register.php:25
+msgid "Accordion"
+msgstr ""
+
+#: theme/administrator/tinymce/tab/editor_plugin_popup.php:352
+#: theme/administrator/tinymce/tab/editor_plugin_register.php:26
+msgid "Tour"
+msgstr ""
+
+#: theme/administrator/tinymce/tab/editor_plugin_popup.php:388
+#: theme/administrator/tinymce/tab/editor_plugin_popup.php:478
+msgid "Add New Tab"
+msgstr ""
+
+#: theme/administrator/tinymce/tab/editor_plugin_popup.php:446
+msgid "Add New Toggle"
+msgstr ""
+
+#: theme/administrator/tinymce/tab/editor_plugin_register.php:21
+msgid "Tabs & Toggles"
+msgstr ""
+
+#: theme/administrator/tinymce/tab/quicktag_plugin.js.php:26
+#: theme/administrator/tinymce/tab/quicktag_plugin.js.php:47
+msgid "Tab"
+msgstr ""
+
+#: theme/administrator/tinymce/tab/quicktag_plugin.js.php:26
+#: theme/administrator/tinymce/tab/quicktag_plugin.js.php:33
+#: theme/administrator/tinymce/tab/quicktag_plugin.js.php:41
+#: theme/administrator/tinymce/tab/quicktag_plugin.js.php:47
+msgid "Title"
+msgstr ""
+
+#: theme/administrator/tinymce/tab/quicktag_plugin.js.php:40
+msgid "Title2"
+msgstr ""
+
+#: theme/administrator/tinymce/table/editor_plugin_popup.php:149
+#: theme/administrator/tinymce/table/editor_plugin_register.php:20
+msgid "Table"
+msgstr ""
+
+#: theme/administrator/tinymce/table/editor_plugin_popup.php:157
+msgid "Columns Count"
+msgstr ""
+
+#: theme/administrator/tinymce/table/editor_plugin_popup.php:170
+msgid "Rows Count"
+msgstr ""
+
+#: theme/administrator/tinymce/table/editor_plugin_popup.php:183
+#: theme/administrator/tinymce/table/editor_plugin_popup.php:188
+msgid "Table Header"
+msgstr ""
+
+#: theme/administrator/tinymce/table/editor_plugin_popup.php:194
+#: theme/administrator/tinymce/table/editor_plugin_popup.php:199
+msgid "Table Footer"
+msgstr ""
+
+#: theme/administrator/tinymce/table/quicktag_plugin.js.php:26
+msgid "Header"
+msgstr ""
+
+#: theme/administrator/tinymce/table/quicktag_plugin.js.php:26
+msgid "Division"
+msgstr ""
+
+#: theme/administrator/tinymce/video/editor_plugin_popup.php:79
+msgid "For Internet Explorer, Google Chrome, Apple Safari"
+msgstr ""
+
+#: theme/administrator/tinymce/video/editor_plugin_popup.php:93
+msgid "For Firefox, Google Chrome, Opera"
+msgstr ""
+
+#: theme/administrator/tinymce/video/editor_plugin_popup.php:112
+msgid "Poster image"
+msgstr ""
+
+#: theme/administrator/tinymce/video/editor_plugin_popup.php:311
+#: theme/administrator/tinymce/video/editor_plugin_register.php:23
+msgid "Embeded Video"
+msgstr ""
+
+#: theme/administrator/tinymce/video/editor_plugin_popup.php:313
+msgid "HTML 5 Video"
+msgstr ""
+
+#: theme/administrator/tinymce/video/editor_plugin_popup.php:315
+msgid "Video Player"
+msgstr ""
+
+#: theme/administrator/tinymce/video/editor_plugin_popup.php:317
+msgid "Video Player With Playlist"
+msgstr ""
+
+#: theme/administrator/tinymce/video/editor_plugin_popup.php:338
+msgid "You can use YouTube, Vimeo, DailyMotion or Screenr video here"
+msgstr ""
+
+#: theme/administrator/tinymce/video/editor_plugin_popup.php:382
+#: theme/administrator/tinymce/video/quicktag_plugin.js.php:32
+msgid "Your browser does not support the video tag"
+msgstr ""
+
+#: theme/administrator/tinymce/video/editor_plugin_popup.php:405
+#: theme/administrator/tinymce/video/editor_plugin_popup.php:492
+#: theme/administrator/tinymce/video/editor_plugin_popup.php:546
+msgid "Poster"
+msgstr ""
+
+#: theme/administrator/tinymce/video/editor_plugin_popup.php:431
+msgid "Autoplay video"
+msgstr ""
+
+#: theme/administrator/tinymce/video/editor_plugin_popup.php:442
+msgid "Repeat video"
+msgstr ""
+
+#: theme/administrator/tinymce/video/editor_plugin_popup.php:556
+msgid "Add Video to Playlist"
+msgstr ""
+
+#: theme/administrator/tinymce/video/editor_plugin_register.php:21
+#: theme/classes/portfolio-posttype.php:1
+msgid "Video"
+msgstr ""
+
+#: theme/administrator/tinymce/video/editor_plugin_register.php:24
+msgid "HTML5 Video"
+msgstr ""
+
+#: theme/administrator/tinymce/video/editor_plugin_register.php:25
+msgid "Single Video Player"
+msgstr ""
+
+#: theme/administrator/tinymce/video/editor_plugin_register.php:26
+msgid "Multiple Video Player"
+msgstr ""
+
+#: theme/administrator/tinymce/video/quicktag_plugin.js.php:26
+msgid "Insert your url here"
+msgstr ""
+
+#: theme/administrator/tinymce/video/quicktag_plugin.js.php:32
+#: theme/administrator/tinymce/video/quicktag_plugin.js.php:38
+msgid "Insert your mp4 file url here"
+msgstr ""
+
+#: theme/administrator/tinymce/video/quicktag_plugin.js.php:32
+#: theme/administrator/tinymce/video/quicktag_plugin.js.php:38
+msgid "Insert your ogv file url here"
+msgstr ""
+
+#: theme/administrator/tinymce/video/quicktag_plugin.js.php:38
+msgid "Insert your video title here"
+msgstr ""
+
+#: theme/administrator/tinymce/video/quicktag_plugin.js.php:38
+msgid "Insert your video poster here"
+msgstr ""
+
+#: theme/administrator/tinymce/video/quicktag_plugin.js.php:44
+msgid "mp4 file url here"
+msgstr ""
+
+#: theme/administrator/tinymce/video/quicktag_plugin.js.php:44
+msgid "ogv file url here"
+msgstr ""
+
+#: theme/administrator/tinymce/video/quicktag_plugin.js.php:44
+msgid "video title here"
+msgstr ""
+
+#: theme/administrator/tinymce/video/quicktag_plugin.js.php:44
+msgid "video poster here"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:21
+msgid "All Projects"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:22
+msgid "Project"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:23
+#: theme/classes/portfolio-posttype.php:24
+msgid "Add New Project"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:25
+msgid "Edit Project"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:26
+msgid "New Project"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:28
+msgid "Search Projects"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:29
+msgid "No Projects found"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:30
+msgid "No Projects found in Trash"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:70
+msgid "Project Category"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:77
+msgid "Project Tag"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:83
+msgid "Portfolio Types"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:96
+msgid "Project Title"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:97
+msgid "Project Thumbnail"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:98
+#: theme/classes/portfolio-posttype.php:220
+msgid "Format"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:99
+msgid "Project Description"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:101
+msgid "Projects Tags"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:102
+msgid "Order Number"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:124
+msgid "It is no thumbnail"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:131
+#: theme/classes/portfolio-posttype.php:236
+msgid "Album"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:140
+msgid "It is no description"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:154
+msgid "It is no categories"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:168
+msgid "It is no tags"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:221
+msgid "Attached Images"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:237
+msgid "Slider"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:280
+msgid "Project Images"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:287
+#: theme/classes/portfolio-posttype.php:300
+msgid "Add an Image"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:298
+#: theme/classes/portfolio-posttype.php:301
+msgid "Choose images and close the window"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:298
+#: theme/classes/portfolio-posttype.php:301
+msgid "Your images were added"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:298
+#: theme/classes/portfolio-posttype.php:301
+msgid "thumbnails will appear only after page reloading"
+msgstr ""
+
+#: theme/classes/portfolio-posttype.php:300
+msgid "Please upload images"
+msgstr ""
+
+#: theme/classes/widgets-default.php:20
+msgid "Your site&#8217;s WordPress Pages"
+msgstr ""
+
+#: theme/classes/widgets-default.php:81
+#: theme/classes/widgets-default.php:267
+#: theme/classes/widgets-default.php:381
+#: theme/classes/widgets-default.php:462
+#: theme/classes/widgets-default.php:532
+#: theme/classes/widgets-default.php:612
+#: theme/classes/widgets-default.php:728
+#: theme/classes/widgets-default.php:858
+#: theme/classes/widgets-default.php:998
+#: theme/classes/widgets-default.php:1325
+#: theme/classes/widgets-default.php:1426
+msgid "Title:"
+msgstr ""
+
+#: theme/classes/widgets-default.php:83
+msgid "Sort by:"
+msgstr ""
+
+#: theme/classes/widgets-default.php:85
+msgid "Page title"
+msgstr ""
+
+#: theme/classes/widgets-default.php:86
+msgid "Page order"
+msgstr ""
+
+#: theme/classes/widgets-default.php:87
+msgid "Page ID"
+msgstr ""
+
+#: theme/classes/widgets-default.php:91
+msgid "Exclude:"
+msgstr ""
+
+#: theme/classes/widgets-default.php:93
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#: theme/classes/widgets-default.php:97
+#: theme/classes/widgets-default.php:210
+#: theme/classes/widgets-default.php:270
+#: theme/classes/widgets-default.php:389
+#: theme/classes/widgets-default.php:465
+#: theme/classes/widgets-default.php:536
+#: theme/classes/widgets-default.php:621
+#: theme/classes/widgets-default.php:742
+#: theme/classes/widgets-default.php:866
+#: theme/classes/widgets-default.php:1006
+#: theme/classes/widgets-default.php:1195
+#: theme/classes/widgets-default.php:1339
+#: theme/classes/widgets-default.php:1442
+#: theme/classes/widgets.php:92
+#: theme/classes/widgets.php:198
+#: theme/classes/widgets.php:336
+#: theme/classes/widgets.php:457
+#: theme/classes/widgets.php:575
+#: theme/classes/widgets.php:712
+#: theme/classes/widgets.php:846
+#: theme/classes/widgets.php:1007
+#: theme/classes/widgets.php:1342
+#: theme/classes/widgets.php:1550
+#: theme/classes/widgets.php:1627
+#: theme/classes/widgets.php:1818
+#: theme/classes/widgets.php:1995
+#: theme/classes/widgets.php:2132
+msgid "Choose the width of widget"
+msgstr ""
+
+#: theme/classes/widgets-default.php:98
+#: theme/classes/widgets-default.php:211
+#: theme/classes/widgets-default.php:271
+#: theme/classes/widgets-default.php:390
+#: theme/classes/widgets-default.php:466
+#: theme/classes/widgets-default.php:537
+#: theme/classes/widgets-default.php:622
+#: theme/classes/widgets-default.php:743
+#: theme/classes/widgets-default.php:867
+#: theme/classes/widgets-default.php:1007
+#: theme/classes/widgets-default.php:1196
+#: theme/classes/widgets-default.php:1340
+#: theme/classes/widgets-default.php:1443
+#: theme/classes/widgets.php:93
+#: theme/classes/widgets.php:199
+#: theme/classes/widgets.php:337
+#: theme/classes/widgets.php:458
+#: theme/classes/widgets.php:576
+#: theme/classes/widgets.php:713
+#: theme/classes/widgets.php:847
+#: theme/classes/widgets.php:1008
+#: theme/classes/widgets.php:1343
+#: theme/classes/widgets.php:1551
+#: theme/classes/widgets.php:1628
+#: theme/classes/widgets.php:1819
+#: theme/classes/widgets.php:1996
+#: theme/classes/widgets.php:2133
+msgid "Only for horizontal sidebars"
+msgstr ""
+
+#: theme/classes/widgets.php:18
+msgid "Your Flickr account latest images"
+msgstr ""
+
+#: theme/classes/widgets.php:19
+msgid "CMSMS - Flickr"
+msgstr ""
+
+#: theme/classes/widgets.php:25
+msgid "Flickr"
+msgstr ""
+
+#: theme/classes/widgets.php:80
+msgid "Flickr ID"
+msgstr ""
+
+#: theme/classes/widgets.php:85
+msgid "Enter the number of latest flickr images you'd like to display"
+msgstr ""
+
+#: theme/classes/widgets.php:87
+#: theme/classes/widgets.php:193
+#: theme/classes/widgets.php:331
+#: theme/classes/widgets.php:452
+#: theme/classes/widgets.php:570
+#: theme/classes/widgets.php:707
+#: theme/classes/widgets.php:841
+#: theme/classes/widgets.php:2201
+msgid "default is"
+msgstr ""
+
+#: theme/classes/widgets.php:114
+msgid "Your Twitter account latest tweets"
+msgstr ""
+
+#: theme/classes/widgets.php:115
+msgid "CMSMS - Twitter"
+msgstr ""
+
+#: theme/classes/widgets.php:186
+msgid "Twitter Username"
+msgstr ""
+
+#: theme/classes/widgets.php:191
+msgid "Enter the number of latest tweets you'd like to display"
+msgstr ""
+
+#: theme/classes/widgets.php:220
+msgid "Your blog latest comments"
+msgstr ""
+
+#: theme/classes/widgets.php:221
+msgid "CMSMS - Comments"
+msgstr ""
+
+#: theme/classes/widgets.php:227
+msgid "Latest Comments"
+msgstr ""
+
+#: theme/classes/widgets.php:329
+msgid "Enter the number of posts latest comments you'd like to display"
+msgstr ""
+
+#: theme/classes/widgets.php:358
+msgid "Most popular posts on your blog"
+msgstr ""
+
+#: theme/classes/widgets.php:359
+msgid "CMSMS - Popular Posts"
+msgstr ""
+
+#: theme/classes/widgets.php:365
+msgid "Popular Posts"
+msgstr ""
+
+#: theme/classes/widgets.php:450
+msgid "Enter the number of popular posts you'd like to display"
+msgstr ""
+
+#: theme/classes/widgets.php:479
+msgid "Latest posts on your blog"
+msgstr ""
+
+#: theme/classes/widgets.php:480
+msgid "CMSMS - Latest Posts"
+msgstr ""
+
+#: theme/classes/widgets.php:486
+msgid "Latest Posts"
+msgstr ""
+
+#: theme/classes/widgets.php:568
+msgid "Enter the number of latest posts you'd like to display"
+msgstr ""
+
+#: theme/classes/widgets.php:597
+msgid "Popular projects on your portfolio"
+msgstr ""
+
+#: theme/classes/widgets.php:598
+msgid "CMSMS - Popular Projects"
+msgstr ""
+
+#: theme/classes/widgets.php:604
+msgid "Popular Projects"
+msgstr ""
+
+#: theme/classes/widgets.php:705
+msgid "Enter the number of popular projects you'd like to display"
+msgstr ""
+
+#: theme/classes/widgets.php:734
+msgid "Latest projects on your portfolio"
+msgstr ""
+
+#: theme/classes/widgets.php:735
+msgid "CMSMS - Latest Projects"
+msgstr ""
+
+#: theme/classes/widgets.php:741
+msgid "Latest Projects"
+msgstr ""
+
+#: theme/classes/widgets.php:839
+msgid "Enter the number of latest projects you'd like to display"
+msgstr ""
+
+#: theme/classes/widgets.php:868
+msgid "Your contact information"
+msgstr ""
+
+#: theme/classes/widgets.php:870
+msgid "CMSMS - Contact Information"
+msgstr ""
+
+#: theme/classes/widgets.php:876
+msgid "Contact Information"
+msgstr ""
+
+#: theme/classes/widgets.php:996
+msgid "Phone"
+msgstr ""
+
+#: theme/classes/widgets.php:1001
+msgid "Email"
+msgstr ""
+
+#: theme/classes/widgets.php:981
+msgid "City"
+msgstr ""
+
+#: theme/classes/widgets.php:986
+msgid "State"
+msgstr ""
+
+#: theme/classes/widgets.php:991
+msgid "Zip"
+msgstr ""
+
+#: theme/classes/widgets.php:1029
+msgid "Your website contact form widget"
+msgstr ""
+
+#: theme/classes/widgets.php:1030
+msgid "CMSMS - Contact Form"
+msgstr ""
+
+#: theme/classes/widgets.php:1364
+msgid "Your advertisement"
+msgstr ""
+
+#: theme/classes/widgets.php:1366
+msgid "CMSMS - Advertisement"
+msgstr ""
+
+#: theme/classes/widgets.php:1372
+#: theme/classes/widgets.php:1579
+msgid "Advertisement"
+msgstr ""
+
+#: theme/classes/widgets.php:1489
+#: theme/classes/widgets.php:1499
+#: theme/classes/widgets.php:1509
+#: theme/classes/widgets.php:1519
+#: theme/classes/widgets.php:1529
+#: theme/classes/widgets.php:1539
+msgid "Image"
+msgstr ""
+
+#: theme/classes/widgets.php:1572
+msgid "Video from youtube, vimeo or dailymotion"
+msgstr ""
+
+#: theme/classes/widgets.php:1573
+msgid "CMSMS - Embeded Video"
+msgstr ""
+
+#: theme/classes/widgets.php:1621
+msgid "Video URL"
+msgstr ""
+
+#: theme/classes/widgets.php:1649
+msgid "Your HTML5 Video"
+msgstr ""
+
+#: theme/classes/widgets.php:1651
+msgid "CMSMS - HTML5 Video"
+msgstr ""
+
+#: theme/classes/widgets.php:1662
+#: theme/classes/widgets.php:1746
+msgid "Your browser does not support the video tag."
+msgstr ""
+
+#: theme/classes/widgets.php:1759
+#: theme/classes/widgets.php:1764
+#: theme/classes/widgets.php:1769
+msgid "File Format Source"
+msgstr ""
+
+#: theme/classes/widgets.php:1774
+msgid "Poster URL"
+msgstr ""
+
+#: theme/classes/widgets.php:1779
+msgid "Video Tag Not Support Text"
+msgstr ""
+
+#: theme/classes/widgets.php:1786
+#: theme/classes/widgets.php:1963
+msgid "Enable Controls"
+msgstr ""
+
+#: theme/classes/widgets.php:1787
+#: theme/classes/widgets.php:1964
+msgid "Disable Controls"
+msgstr ""
+
+#: theme/classes/widgets.php:1794
+#: theme/classes/widgets.php:1971
+msgid "Disable Autoplay"
+msgstr ""
+
+#: theme/classes/widgets.php:1795
+#: theme/classes/widgets.php:1972
+msgid "Enable Autoplay"
+msgstr ""
+
+#: theme/classes/widgets.php:1802
+#: theme/classes/widgets.php:1979
+msgid "Disable Repeat"
+msgstr ""
+
+#: theme/classes/widgets.php:1803
+#: theme/classes/widgets.php:1980
+msgid "Enable Repeat"
+msgstr ""
+
+#: theme/classes/widgets.php:1808
+#: theme/classes/widgets.php:1985
+msgid "Preload"
+msgstr ""
+
+#: theme/classes/widgets.php:1810
+#: theme/classes/widgets.php:1987
+msgid "Not Preload"
+msgstr ""
+
+#: theme/classes/widgets.php:1811
+#: theme/classes/widgets.php:1988
+msgid "Preload Auto"
+msgstr ""
+
+#: theme/classes/widgets.php:1812
+#: theme/classes/widgets.php:1989
+msgid "Preload as Metadata"
+msgstr ""
+
+#: theme/classes/widgets.php:1840
+msgid "Your HTML5 Audio"
+msgstr ""
+
+#: theme/classes/widgets.php:1842
+msgid "CMSMS - HTML5 Audio"
+msgstr ""
+
+#: theme/classes/widgets.php:1852
+#: theme/classes/widgets.php:1928
+msgid "Your browser does not support the audio tag."
+msgstr ""
+
+#: theme/classes/widgets.php:1941
+#: theme/classes/widgets.php:1946
+#: theme/classes/widgets.php:1951
+msgid "File Format URL"
+msgstr ""
+
+#: theme/classes/widgets.php:1956
+msgid "Audio Tag Not Support Text"
+msgstr ""
+
+#: theme/classes/widgets.php:2017
+msgid "Your custom text block with icon"
+msgstr ""
+
+#: theme/classes/widgets.php:2019
+msgid "CMSMS - Custom Text with Icon"
+msgstr ""
+
+#: theme/classes/widgets.php:2025
+msgid "Custom Text with Icon"
+msgstr ""
+
+#: theme/classes/widgets.php:2084
+msgid "Icon"
+msgstr ""
+
+#: theme/classes/widgets.php:2154
+msgid "Divider for widgets rows"
+msgstr ""
+
+#: theme/classes/widgets.php:2155
+msgid "CMSMS - Divider"
+msgstr ""
+
+#: theme/classes/widgets.php:2190
+msgid "Divider Type"
+msgstr ""
+
+#: theme/classes/widgets.php:2192
+msgid "Divider without Line"
+msgstr ""
+
+#: theme/classes/widgets.php:2193
+msgid "Divider with Line"
+msgstr ""
+
+#: theme/classes/widgets.php:2194
+msgid "Divider with Line & Top Scroll"
+msgstr ""
+
+#: theme/classes/widgets.php:2199
+msgid "Enter the text of divider top scroll link"
+msgstr ""
+
+#: theme/functions/projects-sorting.php:14
+#: theme/functions/projects-sorting.php:24
+msgid "Sort Projects"
+msgstr ""
+
+#: theme/functions/theme-functions.php:92
+msgid "Sidebar"
+msgstr ""
+
+#: theme/functions/theme-functions.php:94
+msgid "Widgets in this area will be shown in all left and right sidebars till you don't use custom sidebar."
+msgstr ""
+
+#: theme/functions/theme-functions.php:104
+msgid "Top Sidebar"
+msgstr ""
+
+#: theme/functions/theme-functions.php:106
+msgid "Widgets in this area will be shown at the top of middle block, above the content."
+msgstr ""
+
+#: theme/functions/theme-functions.php:116
+msgid "Middle Sidebar"
+msgstr ""
+
+#: theme/functions/theme-functions.php:118
+msgid "Widgets in this area will be shown at the bottom of middle block below the content, but above bottom sidebar and footer."
+msgstr ""
+
+#: theme/functions/theme-functions.php:130
+msgid "Widgets in this area will be shown at the bottom of middle block below the content and middle sidebar, but above footer."
+msgstr ""
+
+#: theme/functions/theme-functions.php:145
+msgid "Primary Navigation"
+msgstr ""
+
+#: theme/functions/theme-functions.php:146
+msgid "Footer Navigation"
+msgstr ""
+
+#: theme/functions/update-notifier.php:27
+#: theme/functions/update-notifier.php:70
+msgid "Theme Updates"
+msgstr ""
+
+#: theme/functions/update-notifier.php:72
+#: theme/functions/update-notifier.php:143
+msgid "There is a new version of the"
+msgstr ""
+
+#: theme/functions/update-notifier.php:72
+#: theme/functions/update-notifier.php:143
+msgid "theme available"
+msgstr ""
+
+#: theme/functions/update-notifier.php:72
+#: theme/functions/update-notifier.php:143
+msgid "You have version"
+msgstr ""
+
+#: theme/functions/update-notifier.php:72
+#: theme/functions/update-notifier.php:143
+msgid "installed"
+msgstr ""
+
+#: theme/functions/update-notifier.php:72
+#: theme/functions/update-notifier.php:143
+msgid "Update to version"
+msgstr ""
+
+#: theme/functions/update-notifier.php:76
+#: theme/functions/update-notifier.php:145
+msgid "Instructions For Downloading And Installing"
+msgstr ""
+
+#: theme/functions/update-notifier.php:77
+#: theme/functions/update-notifier.php:148
+msgid "Please note"
+msgstr ""
+
+#: theme/functions/update-notifier.php:77
+#: theme/functions/update-notifier.php:148
+msgid "make a"
+msgstr ""
+
+#: theme/functions/update-notifier.php:77
+#: theme/functions/update-notifier.php:148
+msgid "backup"
+msgstr ""
+
+#: theme/functions/update-notifier.php:77
+#: theme/functions/update-notifier.php:148
+msgid "of the Theme inside your WordPress installation folder"
+msgstr ""
+
+#: theme/functions/update-notifier.php:78
+#: theme/functions/update-notifier.php:149
+msgid "To update the Theme, login to"
+msgstr ""
+
+#: theme/functions/update-notifier.php:78
+#: theme/functions/update-notifier.php:149
+msgid "ThemeForest"
+msgstr ""
+
+#: theme/functions/update-notifier.php:78
+#: theme/functions/update-notifier.php:149
+msgid "head over to your"
+msgstr ""
+
+#: theme/functions/update-notifier.php:78
+#: theme/functions/update-notifier.php:149
+msgid "downloads"
+msgstr ""
+
+#: theme/functions/update-notifier.php:78
+#: theme/functions/update-notifier.php:149
+msgid "section and re-download the theme like you did when you bought it"
+msgstr ""
+
+#: theme/functions/update-notifier.php:79
+#: theme/functions/update-notifier.php:150
+msgid "Extract the zip's contents, look for the extracted theme folder, and after you have all the new files upload them using FTP to the"
+msgstr ""
+
+#: theme/functions/update-notifier.php:79
+#: theme/functions/update-notifier.php:150
+msgid "folder overwriting the old ones (this is why it's important to backup any changes you've made to the theme files)"
+msgstr ""
+
+#: theme/functions/update-notifier.php:80
+#: theme/functions/update-notifier.php:151
+msgid "If you didn't make any changes to the theme files, you are free to overwrite them with the new ones without the risk of losing theme settings, pages, posts, etc, and backwards compatibility is guaranteed."
+msgstr ""
+
+#: theme/functions/update-notifier.php:83
+#: theme/functions/update-notifier.php:156
+msgid "Changelog"
+msgstr ""
+
+#: theme/functions/update-notifier.php:125
+msgid "Version"
+msgstr ""
+
+#: theme/functions/update-notifier.php:125
+msgid "Released!"
+msgstr ""
+

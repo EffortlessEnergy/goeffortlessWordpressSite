@@ -1,0 +1,715 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Oakland 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-11 10:20+0200\n"
+"PO-Revision-Date: 2012-04-12 07:36+0200\n"
+"Last-Translator: CMSMasters <cmsmstrs@gmail.com>\n"
+"Language-Team: CMSMasters <cmsmstrs@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:26
+msgid "We're sorry, but the page you were looking for doesn't exist."
+msgstr "Siamo spiacenti, ma la pagina che stavi cercando non esiste."
+
+#: 404.php:33
+msgid "Sitemap"
+msgstr "Mappa del sito"
+
+#: archive.php:32
+msgid "No posts found"
+msgstr "Nessun post trovato"
+
+#: blog.php:51
+#: page.php:54
+#: portfolio.php:72
+#: sitemap.php:58
+#: sitemap.php:69
+msgid "Pages"
+msgstr "Pagine"
+
+#: comments.php:14
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Si prega di non caricare questa pagina direttamente. Grazie!"
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Questo post è protetto da password. Inserisci la password per visualizzare i commenti."
+
+#: comments.php:26
+msgid "No Comments"
+msgstr "Nessun Commento"
+
+#: comments.php:26
+msgid "Comment"
+msgstr "Commento"
+
+#: comments.php:26
+msgid "Comments"
+msgstr "Commenti"
+
+#: comments.php:29
+#: comments.php:39
+msgid "Older Comments"
+msgstr "Anziani commenti"
+
+#: comments.php:30
+#: comments.php:40
+msgid "Newer Comments"
+msgstr "Commenti più recenti"
+
+#: comments.php:51
+msgid "Cancel Reply"
+msgstr "Annulla la risposta"
+
+#: comments.php:52
+msgid "Leave a Reply"
+msgstr "Lascia un commento"
+
+#: comments.php:52
+msgid "Leave your comment to"
+msgstr "Lascia il tuo commento"
+
+#: comments.php:54
+msgid "Your email address will not be published. Required fields are marked"
+msgstr "Il tuo indirizzo email non verrà pubblicato. I campi richiesti sono marcati"
+
+#: comments.php:57
+msgid "You must be"
+msgstr "Devi essere"
+
+#: comments.php:57
+msgid "logged in"
+msgstr "loggato"
+
+#: comments.php:57
+msgid "to post a comment"
+msgstr "Scrivi un commento"
+
+#: comments.php:62
+msgid "Logged in as"
+msgstr "Collegato come"
+
+#: comments.php:62
+msgid "Log out of this account"
+msgstr "Esci da questo account"
+
+#: comments.php:62
+msgid "Log out"
+msgstr "Esci"
+
+#: comments.php:68
+#: header.php:441
+msgid "Name"
+msgstr "Nome"
+
+#: comments.php:73
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:78
+msgid "Website"
+msgstr "Sito web"
+
+#: comments.php:93
+msgid "Add Comment"
+msgstr "Aggiungi commento"
+
+#: footer.php:100
+msgid "Find us elsewhere"
+msgstr "Dove siamo altrove"
+
+#: header.php:252
+msgid "Navigate to..."
+msgstr "Navigazione verso..."
+
+#: header.php:330
+msgid "Search Results for"
+msgstr "Risultati della ricerca per"
+
+#: header.php:333
+msgid "Daily Archives"
+msgstr "Ogni giorno Archivio"
+
+#: header.php:335
+msgid "Monthly Archives"
+msgstr "Archivio mensile"
+
+#: header.php:337
+msgid "Yearly Archives"
+msgstr "Archivio annuale"
+
+#: header.php:339
+msgid "Category Archives"
+msgstr "Categoria Archivio"
+
+#: header.php:341
+msgid "Tag Archives"
+msgstr "Tag Archivio"
+
+#: header.php:345
+msgid "Author Archives"
+msgstr "Archivi autore"
+
+#: header.php:349
+msgid "Portfolio Archives"
+msgstr "Portafoglio Archivio"
+
+#: header.php:351
+msgid "Website Archives"
+msgstr "Sito web Archivio"
+
+#: header.php:442
+msgid "Date"
+msgstr "Data"
+
+#: header.php:446
+#: header.php:448
+msgid "All Categories"
+msgstr "Tutte le categorie"
+
+#: image.php:41
+msgid "This entry was posted on"
+msgstr "Questo articole è stato pubblicato il"
+
+#: image.php:41
+msgid "at"
+msgstr "a"
+
+#: image.php:41
+msgid "and is filed under"
+msgstr "ed è archiviato sotto"
+
+#: image.php:49
+msgid "You can follow any responses to this entry through the"
+msgstr "È possibile seguire tutte le repliche a questo articolo tramite il"
+
+#: image.php:51
+msgid "RSS 2.0"
+msgstr "RSS 2.0"
+
+#: image.php:53
+msgid "feed"
+msgstr "alimentazione"
+
+#: image.php:56
+msgid "You can"
+msgstr "Si può"
+
+#: image.php:56
+msgid "leave a response"
+msgstr "lasciare un commento"
+
+#: image.php:56
+msgid "or"
+msgstr "o"
+
+#: image.php:59
+#: image.php:65
+msgid "trackback"
+msgstr "trackback"
+
+#: image.php:59
+#: image.php:65
+msgid "from your own site"
+msgstr "dal tuo sito"
+
+#: image.php:61
+msgid "Responses are currently closed, but you can"
+msgstr "Le risposte sono attualmente chiuse, ma è possibile"
+
+#: image.php:67
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr "Puoi saltare alla fine e lasciare una risposta. Il Pinging non è permesso."
+
+#: image.php:69
+msgid "Both comments and pings are currently closed."
+msgstr "Sia i commenti che i ping sono attualmente chiusi."
+
+#: image.php:72
+msgid "Edit this media"
+msgstr "Modifica questo supporto"
+
+#: search.php:33
+msgid "Nothing found. Try another search?"
+msgstr "Non abbiamo trovato nulla. Prova un'altra ricerca?"
+
+#: search.php:69
+msgid "This page contains your query"
+msgstr "Questa pagina contiene la tua ricerca"
+
+#: searchform.php:16
+msgid "enter keywords"
+msgstr "inserire le parole chiave"
+
+#: single.php:91
+msgid "Like this post?"
+msgstr "Ti piace questo post?"
+
+#: single.php:147
+msgid "More Sharing Options"
+msgstr "Opzioni di condivisione più"
+
+#: single.php:188
+#: theme/classes/breadcrumb.php:100
+msgid "Author"
+msgstr "autore"
+
+#: sitemap.php:85
+msgid "Categories"
+msgstr "Categorie"
+
+#: sitemap.php:102
+msgid "Archives"
+msgstr "Archivio"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "Jan"
+msgstr "gen"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "Feb"
+msgstr "feb"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "Mar"
+msgstr "mar"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "Apr"
+msgstr "apr"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "May"
+msgstr "mag"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "Jun"
+msgstr "giu"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "Jul"
+msgstr "lug"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "Aug"
+msgstr "ago"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "Sep"
+msgstr "set"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "Oct"
+msgstr "ott"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "Nov"
+msgstr "nov"
+
+#: js/jquery.jTweetsAnywhere.min.php:227
+msgid "Dec"
+msgstr "dic"
+
+#: js/jquery.jTweetsAnywhere.min.php:780
+msgid "More"
+msgstr "Di più"
+
+#: js/jquery.jTweetsAnywhere.min.php:784
+msgid "Prev"
+msgstr "Precedente"
+
+#: js/jquery.jTweetsAnywhere.min.php:788
+msgid "Next"
+msgstr "prossimo"
+
+#: js/jquery.jTweetsAnywhere.min.php:803
+msgid "new tweet"
+msgstr "nuovo tweet"
+
+#: js/jquery.jTweetsAnywhere.min.php:803
+msgid "new tweets"
+msgstr "nuovi tweet"
+
+#: js/jquery.jTweetsAnywhere.min.php:1057
+msgid "on Twitter"
+msgstr "su Twitter"
+
+#: js/jquery.jTweetsAnywhere.min.php:1083
+msgid "second ago"
+msgstr "secondo fa"
+
+#: js/jquery.jTweetsAnywhere.min.php:1083
+msgid "seconds ago"
+msgstr "secondi fa"
+
+#: js/jquery.jTweetsAnywhere.min.php:1088
+msgid "minute ago"
+msgstr "minuto fa"
+
+#: js/jquery.jTweetsAnywhere.min.php:1088
+msgid "minutes ago"
+msgstr "minuti fa"
+
+#: js/jquery.jTweetsAnywhere.min.php:1093
+msgid "hour ago"
+msgstr "ora fa"
+
+#: js/jquery.jTweetsAnywhere.min.php:1093
+msgid "hours ago"
+msgstr "ore fa"
+
+#: js/jquery.jTweetsAnywhere.min.php:1108
+msgid "day ago"
+msgstr "giorno fa"
+
+#: js/jquery.jTweetsAnywhere.min.php:1108
+msgid "days ago"
+msgstr "giorni fa"
+
+#: js/jquery.jTweetsAnywhere.min.php:1121
+msgid "via"
+msgstr "via"
+
+#: js/jquery.jTweetsAnywhere.min.php:1148
+msgid "here"
+msgstr "qui"
+
+#: js/jquery.jTweetsAnywhere.min.php:1158
+msgid "from"
+msgstr "da"
+
+#: js/jquery.jTweetsAnywhere.min.php:1177
+msgid "in reply to"
+msgstr "in risposta alla"
+
+#: js/jquery.jTweetsAnywhere.min.php:1205
+msgid "and"
+msgstr "e"
+
+#: js/jquery.jTweetsAnywhere.min.php:1205
+msgid "other"
+msgstr "altro"
+
+#: js/jquery.jTweetsAnywhere.min.php:1205
+msgid "others"
+msgstr "altrui"
+
+#: js/jquery.jTweetsAnywhere.min.php:1210
+msgid "Retweeted by"
+msgstr "Retweeted da"
+
+#: js/jquery.jTweetsAnywhere.min.php:1251
+msgid "Reply"
+msgstr "Risposta"
+
+#: js/jquery.jTweetsAnywhere.min.php:1263
+msgid "Retweet"
+msgstr "Retweet"
+
+#: js/jquery.jTweetsAnywhere.min.php:1275
+msgid "Favorite"
+msgstr "Favorito"
+
+#: js/jquery.jTweetsAnywhere.min.php:1316
+msgid "Sign out"
+msgstr "Esci"
+
+#: js/jquery.jTweetsAnywhere.min.php:1354
+msgid "Loading"
+msgstr "Caricamento"
+
+#: js/jquery.jTweetsAnywhere.min.php:1359
+msgid "ERROR"
+msgstr "ERRORE"
+
+#: js/jquery.jTweetsAnywhere.min.php:1364
+msgid "No more data"
+msgstr "Niente più dati"
+
+#: js/jquery.jTweetsAnywhere.min.php:1495
+msgid "What's happening?"
+msgstr "Che cosa sta succedendo?"
+
+#: js/jquery.validationEngine-lang.php:25
+msgid "* This field is required"
+msgstr "* Questo campo è obbligatorio"
+
+#: js/jquery.validationEngine-lang.php:26
+msgid "* Please select an option"
+msgstr "* Si prega di selezionare un'opzione"
+
+#: js/jquery.validationEngine-lang.php:27
+msgid "* This checkbox is required"
+msgstr "* Questa opzione è necessaria"
+
+#: js/jquery.validationEngine-lang.php:31
+msgid "* Minimum"
+msgstr "* Minimo"
+
+#: js/jquery.validationEngine-lang.php:32
+#: js/jquery.validationEngine-lang.php:37
+msgid "characters allowed"
+msgstr "caratteri consentiti"
+
+#: js/jquery.validationEngine-lang.php:36
+msgid "* Maximum"
+msgstr "* Massimo"
+
+#: js/jquery.validationEngine-lang.php:41
+msgid "* Invalid email address"
+msgstr "* Indirizzo e-mail valido"
+
+#: js/jquery.validationEngine-lang.php:45
+msgid "* Invalid number"
+msgstr "* Numero non valido"
+
+#: js/jquery.validationEngine-lang.php:49
+msgid "* Invalid URL"
+msgstr "* URL non valido"
+
+#: js/jquery.validationEngine-lang.php:53
+msgid "* Numbers and spaces only"
+msgstr "* I numeri e gli spazi solo"
+
+#: js/jquery.validationEngine-lang.php:57
+msgid "* Letters and spaces only"
+msgstr "* Lettere e spazi solo"
+
+#: theme/administrator/admin-options.php:711
+msgid "All Rights Reserved"
+msgstr "Tutti i diritti riservati"
+
+#: theme/classes/breadcrumb.php:27
+msgid "Home"
+msgstr "Casa"
+
+#: theme/classes/breadcrumb.php:104
+msgid "Tag"
+msgstr "Giorno"
+
+#: theme/classes/breadcrumb.php:108
+msgid "Search"
+msgstr "Ricerca"
+
+#: theme/classes/widgets.php:51
+msgid "All Flickr Images"
+msgstr "Tutte le immagini su Flickr"
+
+#: theme/classes/widgets.php:293
+msgid "on"
+msgstr "su"
+
+#: theme/classes/widgets.php:295
+#: theme/functions/comments.php:34
+msgid "ago"
+msgstr "fa"
+
+#: theme/classes/widgets.php:920
+msgid "Phone"
+msgstr "Telefono"
+
+#: theme/classes/widgets.php:1269
+msgid "Submit"
+msgstr "Presentare"
+
+#: theme/classes/widgets.php:1272
+msgid "Do you really want to reset the form?"
+msgstr "Vuoi davvero ripristinare la forma?"
+
+#: theme/classes/widgets.php:1662
+#: theme/classes/widgets.php:1746
+msgid "Your browser does not support the video tag."
+msgstr "Il tuo browser non supporta il tag video."
+
+#: theme/classes/widgets.php:1852
+#: theme/classes/widgets.php:1928
+msgid "Your browser does not support the audio tag."
+msgstr "Il tuo browser non supporta il tag audio."
+
+#: theme/classes/wp-pagenavi.php:242
+msgid "Page"
+msgstr "Pagina"
+
+#: theme/classes/wp-pagenavi.php:242
+msgid "of"
+msgstr "di"
+
+#: theme/functions/comments.php:23
+msgid "said"
+msgstr "ha detto"
+
+#: theme/functions/comments.php:31
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento è in attesa di moderazione."
+
+#: theme/functions/form-builder-sendmail.php:82
+#: theme/functions/form-builder-sendmail.php:90
+msgid "Error!!!"
+msgstr "Errore!!!"
+
+#: theme/functions/form-builder-sendmail.php:84
+msgid "Letter was sent"
+msgstr "Lettera è stata inviata"
+
+#: theme/functions/form-builder-sendmail.php:86
+msgid "letters have been sent"
+msgstr "le lettere sono state inviate"
+
+#: theme/functions/shortcodes.php:357
+msgid "Top"
+msgstr "Top"
+
+#: theme/functions/shortcodes.php:526
+#: theme/functions/shortcodes.php:539
+#: theme/functions/shortcodes.php:598
+#: theme/functions/shortcodes.php:611
+#: theme/functions/shortcodes.php:868
+#: theme/functions/shortcodes.php:928
+msgid "Play"
+msgstr "Giocare"
+
+#: theme/functions/shortcodes.php:540
+#: theme/functions/shortcodes.php:612
+#: theme/functions/shortcodes.php:869
+#: theme/functions/shortcodes.php:929
+msgid "Pause"
+msgstr "Pausa"
+
+#: theme/functions/shortcodes.php:541
+#: theme/functions/shortcodes.php:613
+#: theme/functions/shortcodes.php:870
+#: theme/functions/shortcodes.php:930
+msgid "Stop"
+msgstr "Stop"
+
+#: theme/functions/shortcodes.php:547
+#: theme/functions/shortcodes.php:621
+#: theme/functions/shortcodes.php:876
+#: theme/functions/shortcodes.php:938
+msgid "Mute"
+msgstr "Muto"
+
+#: theme/functions/shortcodes.php:548
+#: theme/functions/shortcodes.php:622
+#: theme/functions/shortcodes.php:877
+#: theme/functions/shortcodes.php:939
+msgid "Unmute"
+msgstr "Riattivare"
+
+#: theme/functions/shortcodes.php:549
+#: theme/functions/shortcodes.php:623
+msgid "Full Screen"
+msgstr "Schermo intero"
+
+#: theme/functions/shortcodes.php:550
+#: theme/functions/shortcodes.php:624
+msgid "Restore Screen"
+msgstr "Il ripristino dello schermo"
+
+#: theme/functions/shortcodes.php:560
+#: theme/functions/shortcodes.php:634
+#: theme/functions/shortcodes.php:887
+#: theme/functions/shortcodes.php:949
+msgid "Update Required"
+msgstr "Aggiornamento Richiesto"
+
+#: theme/functions/shortcodes.php:561
+#: theme/functions/shortcodes.php:635
+#: theme/functions/shortcodes.php:888
+#: theme/functions/shortcodes.php:950
+msgid "To play the media you will need to either update your browser to a recent version or update your"
+msgstr "Per giocare con i media sarà necessario aggiornare sia il browser ad una versione recente o aggiornare le"
+
+#: theme/functions/shortcodes.php:561
+#: theme/functions/shortcodes.php:635
+#: theme/functions/shortcodes.php:888
+#: theme/functions/shortcodes.php:950
+msgid "Flash plugin"
+msgstr "Flash plugin"
+
+#: theme/functions/shortcodes.php:614
+#: theme/functions/shortcodes.php:931
+msgid "Previous"
+msgstr "Precedente"
+
+#: theme/functions/template-functions.php:298
+#: theme/functions/template-functions.php:345
+#: theme/functions/template-functions.php:394
+msgid "Comments Off"
+msgstr "Commenti Disabilitati"
+
+#: theme/functions/template-functions.php:573
+msgid "More posts"
+msgstr "Altri post"
+
+#: theme/functions/template-functions.php:573
+msgid "More projects"
+msgstr "Più progetti"
+
+#: theme/functions/template-functions.php:577
+msgid "Related"
+msgstr "Connessi"
+
+#: theme/functions/template-functions.php:587
+msgid "Popular"
+msgstr "Popolare"
+
+#: theme/functions/template-functions.php:597
+msgid "Latest"
+msgstr "Ultimo"
+
+#: theme/functions/template-functions.php:663
+msgid "No Related Posts Found"
+msgstr "Nessun Relato Messaggi Trovato"
+
+#: theme/functions/template-functions.php:663
+msgid "No Related Projects Found"
+msgstr "Nessun Progetti correlati Trovato"
+
+#: theme/functions/template-functions.php:722
+msgid "No Popular Posts Found"
+msgstr "Nessun messaggio popolari Trovato"
+
+#: theme/functions/template-functions.php:722
+msgid "No Popular Projects Found"
+msgstr "Non ci sono progetti popolari Trovato"
+
+#: theme/functions/template-functions.php:778
+msgid "No Latest Posts Found"
+msgstr "Nessun Ultimi post trovato"
+
+#: theme/functions/template-functions.php:778
+msgid "No Latest Projects Found"
+msgstr "Nessun Ultimi progetti Trovato"
+
+#: theme/functions/template-functions.php:824
+msgid "Unknown type of the video. Check your video link."
+msgstr "Tipo sconosciuto del video. Controlla il tuo collegamento video."
+
+#: theme/functions/template-functions.php:1103
+msgid "Send Message"
+msgstr "Inviare messaggio"
+
+#: theme/functions/template-functions.php:1106
+msgid "Reset Form"
+msgstr "Forma chiara"
+
+#: theme/postTypes/blog/page/fullwidth/link.php:17
+#: theme/postTypes/blog/page/sidebar/link.php:17
+msgid "Enter link text"
+msgstr "Inserisci il testo del link"
+
+#: theme/postTypes/blog/page/fullwidth/quote.php:21
+#: theme/postTypes/blog/page/sidebar/quote.php:21
+msgid "Enter post excerpt"
+msgstr "Inserisci estratto postale"
+
